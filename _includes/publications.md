@@ -1,6 +1,4 @@
-## Select Publications 
-    
-Contact me for copies of articles/chapters
+_Contact me for copies of articles/chapters_
    
 <a href="http://dx.doi.org/10.1017/asr.2016.35" target="_blank">&ldquo;Introduction to ASR Forum on Surveillance in Africa: Politics, Histories, Techniques&quot;</a>, with K. P. Donovan &amp; P. M. Frowd, African Studies Review 59(2): 31-37, 2016 [ISSN 0002-0206]
 

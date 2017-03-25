@@ -1,5 +1,3 @@
-## Scholarly Peer Review 
-   
 I have reviewed research articles for various organizations, academic journals and conferences
     
 - JRC Science and Policy Report: _Nudges to Privacy Behaviour: Exploring Alternative Approaches to EU Data Protection Regulation_ (EUR 27384 EN)
