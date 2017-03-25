@@ -99,6 +99,35 @@
 		"oAP": "\/_layouts\/default.html",
 		"oF": 0
 		},
+	"\/_site\/assets\/css\/style.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/css\/style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/_site\/assets\/css\/style.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/css\/style.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_site\/assets\/images\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/images\/favicon.ico",
+		"oF": 0
+		},
 	"\/_site\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -145,6 +174,12 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/assets\/images\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/images\/favicon.ico",
+		"oF": 0
 		},
 	"\/index.md": {
 		"cS": 0,
