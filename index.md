@@ -17,7 +17,7 @@ I have a PhD in Information Systems and Innovation from the <a href="http://www.
   <input type="radio" name="tabs" id="tabone" checked="checked">
   <label for="tabone">Select Publications</label>
   <div class="tab">
-    ## Select Publications
+    <h2>Select Publications</h2>
     
     Contact me for copies of articles/chapters
    
@@ -62,7 +62,7 @@ Book review of&nbsp;<a href="http://library.queensu.ca/ojs/index.php/surveillanc
   <input type="radio" name="tabs" id="tabtwo">
   <label for="tabtwo">Professional History</label>
   <div class="tab">
-    ## Professional History
+    <h2>Professional History</h2>
    
    <ul>
   <li>Lecturer in <i>Controversies in Connective Media</i>, an Information Policy course at <a href="http://tech.cornell.edu/" target="_blank">Cornell Tech</a>, 2016</li>
@@ -83,7 +83,7 @@ Book review of&nbsp;<a href="http://library.queensu.ca/ojs/index.php/surveillanc
   <input type="radio" name="tabs" id="tabthree">
   <label for="tabthree">Scholarly Peer Review</label>
   <div class="tab">
-    ## Scholarly Peer Review
+    <h2>Scholarly Peer Review</h2>
    
     I have reviewed research articles for various organizations, academic journals and conferences
     
