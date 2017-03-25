@@ -21,17 +21,65 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
-	"\/_includes\/css\/style.css": {
+	"\/_layouts\/default.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/default.html",
+		"oF": 0
+		},
+	"\/_site\/cv.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_site\/cv.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_site\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/index.html",
+		"oF": 0
+		},
+	"\/_site\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_site\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/assets\/css\/style.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/_includes\/css\/style-min.css",
+		"oAP": "\/assets\/css\/style-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/_includes\/css\/style.scss": {
+	"\/assets\/css\/style.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -39,16 +87,10 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/_includes\/css\/style.css",
+		"oAP": "\/assets\/css\/style.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/_layouts\/default.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/default.html",
-		"oF": 0
 		},
 	"\/cv.md": {
 		"cS": 0,
