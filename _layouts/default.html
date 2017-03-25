@@ -8,15 +8,42 @@
 		<body>
 
 			<section>
-			
-			  {{ content }}
-			
+			  <article>
+        
+			    {{ content }}
+			    
+			  </article>
 			</section>
 			
 			<aside>
-      
+              <div class="tabs">
+                
+                <input type="radio" name="tabs" id="tabone" checked="checked">
+                <label for="tabone">Select Publicationse</label>
 			
-			  
+			    <div class="tab">
+    
+                 {% include publications.md %}
+                 
+                </div>
+                
+			    <input type="radio" name="tabs" id="tabtwo">
+                <label for="tabtwo">Professional History</label>
+                
+                <div class="tab">
+                  
+                  {% include professional-history.md %}
+                  
+                </div>
+                
+                <input type="radio" name="tabs" id="tabthree">
+                <label for="tabthree">Scholarly Peer Review</label>
+                
+                <div class="tab">
+                  
+                  {% include peer-review.md %}
+                  
+                </div>
 			</aside>
 			
 			<footer>
