@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/andypbrowne/sixfouronea/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Aaron K. Martin, PhD
 
-### Markdown
+I am a technology policy expert specializing in cybersecurity, privacy and digital identity. I am presently a Vice President in Global Technology at JPMorgan Chase. I previously worked in technology policy at the OECD, European Commission and Vodafone Group, among other organizations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am also an Oxford Martin Associate at the University of Oxford's <a href="http://www.oxfordmartin.ox.ac.uk/cybersecurity/" target="_blank">Global Cyber Security Capacity Centre</a>.
 
-```markdown
-Syntax highlighted code block
+I recently co-organized a <a href="https://www.cambridge.org/core/journals/african-studies-review/article/div-classtitleintroductiondiv/788C8F5BED1FE9AD46FC2D6613E23160" target="_blank">special forum on surveillance in Africa</a> for the African Studies Review.
 
-# Header 1
-## Header 2
-### Header 3
+I have a PhD in Information Systems and Innovation from the <a href="http://www.lse.ac.uk/home.aspx" target="_blank">London School of Economics and Political Science</a>, where I studied biometrics policy from 2006-2011.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andypbrowne/sixfouronea/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Select Publications](#)
+- [Professional History](#)
+- [Scholarly Peer Review](#)
+- [Note on Third-party Trackers](#)
