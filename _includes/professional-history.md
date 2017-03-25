@@ -1,4 +1,4 @@
-## Professional History
+## Professional History 
 
 - Lecturer in <i>Controversies in Connective Media</i>, an Information Policy course at <a href="http://tech.cornell.edu/" target="_blank">Cornell Tech</a>, 2016
 

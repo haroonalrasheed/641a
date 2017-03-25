@@ -21,6 +21,12 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
+	"\/_includes\/peer-review.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/peer-review.html",
+		"oF": 0
+		},
 	"\/_includes\/peer-review.md": {
 		"cS": 0,
 		"eF": 1,
@@ -29,7 +35,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/_includes\/peer-review.html",
 		"oF": 1,
 		"oFM": 0,
@@ -39,6 +45,12 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_includes\/professional-history.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/professional-history.html",
+		"oF": 0
+		},
 	"\/_includes\/professional-history.md": {
 		"cS": 0,
 		"eF": 1,
@@ -47,7 +59,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/_includes\/professional-history.html",
 		"oF": 1,
 		"oFM": 0,
@@ -57,6 +69,12 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_includes\/publications.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/publications.html",
+		"oF": 0
+		},
 	"\/_includes\/publications.md": {
 		"cS": 0,
 		"eF": 1,
@@ -65,7 +83,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/_includes\/publications.html",
 		"oF": 1,
 		"oFM": 0,
@@ -86,6 +104,24 @@
 		"oA": 2,
 		"oAP": "\/_site\/index.html",
 		"oF": 0
+		},
+	"\/_site\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_site\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/assets\/css\/style.css": {
 		"aP": 0,

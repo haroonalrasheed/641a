@@ -1,4 +1,4 @@
-## Select Publications
+## Select Publications 
     
 Contact me for copies of articles/chapters
    
