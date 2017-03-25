@@ -3,17 +3,25 @@
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="includes/css/main.css">
+			<link rel="stylesheet" type="text/css" href="includes/css/style.css">
 		</head>
 		<body>
 
 			<section>
 			
-			{{ content }}
+			  {{ content }}
 			
 			</section>
 			
+			<aside>
+      
+			  {% include cv.md %}
+			  
+			</aside>
+			
 			<footer>
+			
+			  {% include footer.md %}
 			
 			</footer>
 		</body>
