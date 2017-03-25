@@ -4,11 +4,18 @@ body {
   box-sizing: border-box;
   padding-top: 10vh;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.5;
-  max-width: 60rem;
   margin: 0 auto;
-  font-size: 112%; }
+  font-size: 112%;
+  display: flex;
+  flex-flow: row wrap; }
+
+article {
+  max-width: 40rem; }
+
+aside {
+  max-width: 30rem; }
 
 /***********
 ***Tabs*****
