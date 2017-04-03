@@ -21,106 +21,17 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
-	"\/_includes\/peer-review.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/peer-review.html",
-		"oF": 0
-		},
-	"\/_includes\/peer-review.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_includes\/peer-review.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_includes\/professional-history.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/professional-history.html",
-		"oF": 0
-		},
-	"\/_includes\/professional-history.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_includes\/professional-history.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_includes\/publications.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/publications.html",
-		"oF": 0
-		},
-	"\/_includes\/publications.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_includes\/publications.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/_layouts\/default.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/default.html",
 		"oF": 0
 		},
-	"\/_site\/assets\/css\/style.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
+	"\/_layouts\/page.html": {
+		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/assets\/css\/style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/_site\/assets\/css\/style.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/css\/style.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oAP": "\/_layouts\/page.html",
+		"oF": 0
 		},
 	"\/_site\/assets\/images\/favicon.ico": {
 		"ft": 8192,
@@ -132,6 +43,18 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/index.html",
+		"oF": 0
+		},
+	"\/_site\/peer-review\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/peer-review\/index.html",
+		"oF": 0
+		},
+	"\/_site\/professional-history\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/professional-history\/index.html",
 		"oF": 0
 		},
 	"\/_site\/README.md": {
@@ -151,6 +74,12 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/_site\/select-publications\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/select-publications\/index.html",
+		"oF": 0
 		},
 	"\/assets\/css\/style.css": {
 		"aP": 0,
@@ -199,6 +128,42 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/peer-review\/index.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/peer-review\/index.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/professional-history\/index.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/professional-history\/index.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
@@ -209,6 +174,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/README.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/select-publications\/index.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/select-publications\/index.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,

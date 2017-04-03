@@ -1,2 +1,3 @@
 name: Aaron K. Martin, PhD
 markdown: kramdown
+permalink: /:title

@@ -1,4 +1,11 @@
-I have reviewed research articles for various organizations, academic journals and conferences
+---
+layout: page
+title: Peer Review
+---
+
+## Peer Review
+
+_I have reviewed research articles for various organizations, academic journals and conferences_
     
 - JRC Science and Policy Report: _Nudges to Privacy Behaviour: Exploring Alternative Approaches to EU Data Protection Regulation_ (EUR 27384 EN)
 

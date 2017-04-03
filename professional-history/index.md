@@ -1,3 +1,10 @@
+---
+layout: page
+title: Professional History
+---
+
+## Professional History
+
 - Lecturer in <i>Controversies in Connective Media</i>, an Information Policy course at <a href="http://tech.cornell.edu/" target="_blank">Cornell Tech</a>, 2016
 
 - Junior Policy Analyst at the <a href="http://oecd.org/" target="_blank">Organisation for Economic Co-operation and Development</a>, 2013-2015
