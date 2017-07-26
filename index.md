@@ -3,7 +3,7 @@ layout: default
 title: Aaron K. Martin, PhD
 ---
 
-I am a technology policy expert specializing in cybersecurity, privacy and digital identity policy. I am presently a Vice President in Global Technology at JPMorgan Chase, having previously worked in technology policy at the OECD, European Commission and Vodafone Group, among other organizations.
+I am a technology policy expert specializing in cybersecurity, privacy and digital identity policy. I am presently a Vice President of Global Technology at JPMorgan Chase, having previously worked in technology policy at the OECD, European Commission and Vodafone Group, among other organizations.
 
 I am also an Oxford Martin Associate at the University of Oxford's <a href="http://www.oxfordmartin.ox.ac.uk/cybersecurity/" target="_blank">Global Cyber Security Capacity Centre</a>.
 
