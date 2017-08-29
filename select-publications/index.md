@@ -15,7 +15,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 <a href="http://dx.doi.org/10.1177/0963662513514173" target="_blank">&quot;New Surveillance Technologies and their Publics: A Case of Biometrics&quot;</a>, with K. P. Donovan,<i>&nbsp;Public Understanding of Science</i>&nbsp;24(7): 842–857, 2015<i>&nbsp;</i>[ISSN 0963-6625]
 
-<a href="http://personal.lse.ac.uk/whitley/allpubs/hos2014.pdf" target="_blank">&quot;From Surveillance-by-Design to Privacy-by-Design: Evolving Identity Policy in the UK&quot;, with E. A. Whitley &amp; G. Hosein, in&nbsp;<a href="http://www.amazon.co.uk/Histories-Surveillance-Europe-Beyond-Boersma/dp/0415829461" target="_blank"><i>Histories of State Surveillance in Europe and Beyond</i></a>, edited by K. Boersma, R. van Brakel, C. Fonio &amp; P. Wagenaar, Routledge: 205-219, 2014 [ISBN-13: 978-0-415-82946-5]
+<a href="http://personal.lse.ac.uk/whitley/allpubs/hos2014.pdf" target="_blank">&quot;From Surveillance-by-Design to Privacy-by-Design: Evolving Identity Policy in the UK&quot;</a>, with E. A. Whitley &amp; G. Hosein, in&nbsp;<a href="http://www.amazon.co.uk/Histories-Surveillance-Europe-Beyond-Boersma/dp/0415829461" target="_blank"><i>Histories of State Surveillance in Europe and Beyond</i></a>, edited by K. Boersma, R. van Brakel, C. Fonio &amp; P. Wagenaar, Routledge: 205-219, 2014 [ISBN-13: 978-0-415-82946-5]
 
 <a href="http://firstmonday.org/ojs/index.php/fm/article/view/4351/3820" target="_blank">&quot;The Rise of African SIM Registration: The Emerging Dynamics of Regulatory Change&quot;</a>,&nbsp;with K. P. Donovan,&nbsp;<i>First Monday&nbsp;</i>19(2-3), 2014<i>&nbsp;</i>[ISSN 1396-0466]
 
@@ -28,7 +28,7 @@ Book review of&nbsp;<a href="http://dx.doi.org/10.1093/scipol/sct019" target="_b
 
 <a href="http://www.sciencedirect.com/science/article/pii/S0308596113000761" target="_blank">&quot;Friending the Taxman: On the Use of Social Networking Services for Government eID in Europe&quot;</a>, with N. Andrade, <i>Telecommunications Policy</i> 37(9): 715-724, 2013 [ISSN 0308-5961]
 
-<a href="http://doi.ieeecomputersociety.org/10.1109/MSP.2013.22" target="_blank">&quot;&lsquo;All the Better to See You with, My Dear&lsquo;: Facial Recognition and Privacy in Online Social Networks&quot;</a>, with N. Andrade &amp; S. Monteleone,&nbsp;<i>IEEE Security &amp; Privacy Magazine </i>11(3): 21-28, 2013 [ISSN 1540-7993]
+<a href="http://doi.ieeecomputersociety.org/10.1109/MSP.2013.22" target="_blank">&quot;&lsquo;All the Better to See You with, My Dear&rsquo;: Facial Recognition and Privacy in Online Social Networks&quot;</a>, with N. Andrade &amp; S. Monteleone,&nbsp;<i>IEEE Security &amp; Privacy Magazine </i>11(3): 21-28, 2013 [ISSN 1540-7993]
 
 <a href="http://mcs.sagepub.com/content/35/1/52.extract" target="_blank">&quot;Fixing Identity? Biometrics and the Tensions of Material Practices&quot;</a>, with E. A. Whitley,&nbsp;<i>Media, Culture &amp; Society</i>&nbsp;35(1): 52–60, 2013 [ISSN 0163-4437]
 
