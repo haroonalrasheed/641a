@@ -28,7 +28,7 @@ Book review of&nbsp;<a href="http://dx.doi.org/10.1093/scipol/sct019" target="_b
 
 <a href="http://www.sciencedirect.com/science/article/pii/S0308596113000761" target="_blank">&quot;Friending the Taxman: On the Use of Social Networking Services for Government eID in Europe&quot;</a>, with N. Andrade, <i>Telecommunications Policy</i> 37(9): 715-724, 2013 [ISSN 0308-5961]
 
-<a href="http://doi.ieeecomputersociety.org/10.1109/MSP.2013.22" target="_blank">&quot;&lsquo;All the Better to See You with, My Dear&rsaquo;: Facial Recognition and Privacy in Online Social Networks&quot;</a>, with N. Andrade &amp; S. Monteleone,&nbsp;<i>IEEE Security &amp; Privacy Magazine </i>11(3): 21-28, 2013 [ISSN 1540-7993]
+<a href="http://doi.ieeecomputersociety.org/10.1109/MSP.2013.22" target="_blank">&quot;&lsquo;All the Better to See You with, My Dear&lsquo;: Facial Recognition and Privacy in Online Social Networks&quot;</a>, with N. Andrade &amp; S. Monteleone,&nbsp;<i>IEEE Security &amp; Privacy Magazine </i>11(3): 21-28, 2013 [ISSN 1540-7993]
 
 <a href="http://mcs.sagepub.com/content/35/1/52.extract" target="_blank">&quot;Fixing Identity? Biometrics and the Tensions of Material Practices&quot;</a>, with E. A. Whitley,&nbsp;<i>Media, Culture &amp; Society</i>&nbsp;35(1): 52–60, 2013 [ISSN 0163-4437]
 
