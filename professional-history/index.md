@@ -5,7 +5,7 @@ title: Professional History
 
 ## Professional History
 
-- Lecturer in Cybersecurity Law at the <a href="http://www.pli.edu/" target="_blank">Practising Law Institute</a>, 2017
+- Lecturer in <i>Cybersecurity Law</i> at the <a href="http://www.pli.edu/" target="_blank">Practising Law Institute</a>, 2017
 
 - Lecturer in <i>Controversies in Connective Media</i>, an Information Policy course at <a href="http://tech.cornell.edu/" target="_blank">Cornell Tech</a>, 2016
 
