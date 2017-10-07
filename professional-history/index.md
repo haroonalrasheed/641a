@@ -13,7 +13,7 @@ title: Professional History
 
 - Scientific Officer at the <a href="https://ec.europa.eu/jrc/en/institutes/ipts" target="_blank">Institute for Prospective Technological Studies</a>, European Commission, 2012
 
-- Visiting Professor in the Security Policy Program at <a href="http://www.uoc.edu/" target="_blank">Universitat Oberta de Catalunya</a>, 2012
+- Visiting Scholar in the Security Policy Program at <a href="http://www.uoc.edu/" target="_blank">Universitat Oberta de Catalunya</a>, 2012
 
 - Privacy Analyst at the <a href="http://www.vodafone.com" target="_blank">Vodafone Group</a>, 2011
 
