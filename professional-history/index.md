@@ -5,7 +5,7 @@ title: Professional History
 
 ## Professional History
 
-- Visiting Lecturer in <i>Cybersecurity Law</i> at the <a href="http://www.pli.edu/" target="_blank">Practising Law Institute</a>, 2017
+- Guest Speaker in <i>Cybersecurity Law</i> at the <a href="http://www.pli.edu/" target="_blank">Practising Law Institute</a>, 2017
 
 - Lecturer in <i>Controversies in Connective Media</i>, an Information Policy course at <a href="http://tech.cornell.edu/" target="_blank">Cornell Tech</a>, 2016
 
@@ -29,7 +29,7 @@ title: Professional History
 
 - Contractor for Emerging Technologies at <a href="http://www.itv.com" target="_blank">ITV</a>, 2008
 
-- Guest Lecturer for the MA Programme in Surveillance Studies at <a href="http://www.city.ac.uk" target="_blank">City University London</a>, 2008
+- Guest Lecturer for the MA Programme in <i>Surveillance Studies</i> at <a href="http://www.city.ac.uk" target="_blank">City University London</a>, 2008
 
 - <a href="http://www.lse.ac.uk" target="_blank">LSE</a> <i>E-Business in the Digital Age</i> Class Teacher, 2008-2010, 2012
 
