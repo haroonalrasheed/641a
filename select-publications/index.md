@@ -38,9 +38,9 @@ Book review of&nbsp;<a href="http://dx.doi.org/10.1093/scipol/sct019" target="_b
     
 <a href="http://www.oecd-ilibrary.org/science-and-technology/proactive-policy-measures-by-internet-service-providers-against-botnets_5k98tq42t18w-en" target="_blank">&quot;Proactive Policy Measures by Internet Service Providers against Botnets&quot;</a>, <i>OECD Digital Economy Papers</i> 199, Organisation for Economic Co-operation &amp; Development, OECD Publishing: 1-24, 2012<br>
 
+<a href="https://www.privacyinternational.org/sites/default/files/Privacy_International_Medical_Privacy.pdf" target="_blank">&quot;Medical Privacy and Security in Developing Countries and Humanitarian Operations&quot;</a>, with G. Hosein, <i>Policy Engagement Network Paper</i> 7, London School of Economics &amp; Political Science, 2012<br>
+
 <a href="http://www.tandfonline.com/doi/pdf/10.4324/9780203827475_chapter_1" target="_blank">&quot;Rethinking Security at the Olympics&quot;</a>, with D. J. Bernhard, in <i>Security Games: Surveillance and Control at Mega-Events</i>, edited by C.J. Bennett &amp; K. D. Haggerty, Routledge: 20-35, 2011 [ISBN-13: 978-0-415-60262-4]
-    
-<a href="https://www.privacyinternational.org/sites/default/files/Privacy_International_Medical_Privacy.pdf" target="_blank">&quot;Medical Privacy and Security in Developing Countries and Humanitarian Operations&quot;</a>, with G. Hosein, <i>Policy Engagement Network Paper</i> 7, London School of Economics &amp; Political Science, 2010<br>
 
 <a href="http://aisel.aisnet.org/cais/vol26/iss1/1/" target="_blank">&quot;Automating the Public Sector and Organizing Accountabilities&quot;</a>, with M. L. Smith &amp; M. E. Noorman, <i>Communications of the Association for Information Systems</i> 26(1): 1-16, 2010 [ISSN 1529-3181]
 
