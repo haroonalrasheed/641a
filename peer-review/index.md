@@ -7,7 +7,7 @@ title: Peer Review
 
 _I have reviewed research articles for various organizations, academic journals and conferences_
     
-- JRC Science and Policy Report: _Nudges to Privacy Behaviour: Exploring Alternative Approaches to EU Data Protection Regulation_ (EUR 27384 EN)
+- JRC Science and Policy Report Series
 
 - Management Information Systems Quarterly
 
@@ -23,17 +23,17 @@ _I have reviewed research articles for various organizations, academic journals 
 
 - Technology Assessment and Strategic Management
 
-- IEEE Security &amp; Privacy
+- IEEE Security & Privacy
 
 - Identity in the Information Society Journal
 
-- Surveillance &amp; Society
+- Surveillance & Society
 
 - British Journal of Political Science
 
 - European Group for Organizational Studies Colloquium, sub-theme on Unsettling Technology and Accountability (2008)
 
-- AIS SIGSEC Workshop on Information Security &amp; Privacy (pre-ICIS 2008)
+- AIS SIGSEC Workshop on Information Security & Privacy (pre-ICIS 2008)
 
 - European Conference on Information Systems (2009, 2012, 2013)
 
