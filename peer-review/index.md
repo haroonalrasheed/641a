@@ -7,8 +7,6 @@ title: Peer Review
 
 _I have reviewed research articles for various organizations, academic journals and conferences_
     
-- JRC Science and Policy Report Series
-
 - Management Information Systems Quarterly
 
 - European Journal of Information Systems
@@ -30,6 +28,8 @@ _I have reviewed research articles for various organizations, academic journals 
 - Surveillance & Society
 
 - British Journal of Political Science
+
+- JRC Science and Policy Report [EUR 27384 EN]
 
 - European Group for Organizational Studies Colloquium, sub-theme on Unsettling Technology and Accountability (2008)
 
