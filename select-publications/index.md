@@ -9,7 +9,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 &quot;Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships&quot;, with V. S. J. Menacho, in <i>Rewired: Cybersecurity Governance</i>, edited by R. Ellis & V. Mohan, Wiley, Forthcoming
    
-<a href="http://dx.doi.org/10.1017/asr.2016.35" target="_blank">&quot;Introduction to ASR Forum on Surveillance in Africa: Politics, Histories, Techniques&quot;;</a>, with K. P. Donovan &amp; P. M. Frowd, African Studies Review 59(2): 31-37, 2016 [ISSN 0002-0206]
+<a href="http://dx.doi.org/10.1017/asr.2016.35" target="_blank">&quot;Introduction to ASR Forum on Surveillance in Africa: Politics, Histories, Techniques&quot;</a>, with K. P. Donovan &amp; P. M. Frowd, African Studies Review 59(2): 31-37, 2016 [ISSN 0002-0206]
 
 &quot;Trust in the Digital Economy: Security and Privacy&quot;, with M. Donohue, in <a href="http://dx.doi.org/10.1787/9789264232440-en" target="_blank"><i>OECD Digital Economy Outlook</i>, 2015</a>; Organisation for Economic Co-operation &amp; Development,<i> </i>OECD Publishing: 209-238, 2015 [ISBN-13: 978-9-264-23227-3]
 
