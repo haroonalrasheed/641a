@@ -6,10 +6,12 @@ title: Select Publications
 ## Select Publications
 
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
+
+“Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships", with V. S. J. Menacho, in <i>Rewired: Cybersecurity Governance</i>, edited by Ryan Ellis & Vivek Mohan, Wiley [In Progress]
    
 <a href="http://dx.doi.org/10.1017/asr.2016.35" target="_blank">&ldquo;Introduction to ASR Forum on Surveillance in Africa: Politics, Histories, Techniques&quot;</a>, with K. P. Donovan &amp; P. M. Frowd, African Studies Review 59(2): 31-37, 2016 [ISSN 0002-0206]
 
-&quot;Trust in the Digital Economy: Security and Privacy&quot;, with M. Donohue, in <a href="http://dx.doi.org/10.1787/9789264232440-en" target="_blank"><i>OECD Digital Economy Outlook</i>, 2015</a>; Organisation for Economic Co-operation &amp; Development,<i> </i>OECD Publishing: 209-238, 2015 [ISBN-13: 978-9-264-23227-3]<br>
+&quot;Trust in the Digital Economy: Security and Privacy&quot;, with M. Donohue, in <a href="http://dx.doi.org/10.1787/9789264232440-en" target="_blank"><i>OECD Digital Economy Outlook</i>, 2015</a>; Organisation for Economic Co-operation &amp; Development,<i> </i>OECD Publishing: 209-238, 2015 [ISBN-13: 978-9-264-23227-3]
 
 <a href="http://oe.cd/csirt-stat" target="_blank">&quot;Guidance for Improving the Comparability of Statistics Produced by Computer Security Incident Response Teams&quot;</a>, with T. Park, Organisation for Economic Co-operation &amp; Development, 2015
 
