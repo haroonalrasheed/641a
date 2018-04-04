@@ -23,7 +23,7 @@ _I have reviewed research articles for various organizations, academic journals 
 
 - IEEE Security & Privacy
 
-- Identity in the Information Society Journal
+- Identity in the Information Society
 
 - Surveillance & Society
 
@@ -31,10 +31,10 @@ _I have reviewed research articles for various organizations, academic journals 
 
 - JRC Science and Policy Report [EUR 27384 EN]
 
-- European Group for Organizational Studies Colloquium, sub-theme on Unsettling Technology and Accountability (2008)
+- European Group for Organizational Studies Colloquium [sub-theme on Unsettling Technology and Accountability] (2008)
 
-- AIS SIGSEC Workshop on Information Security & Privacy (pre-ICIS 2008)
+- AIS SIGSEC Workshop on Information Security & Privacy (2008)
 
 - European Conference on Information Systems (2009, 2012, 2013)
 
-- Conference on Open Development: Technological, Organizational and Social Innovations Transforming the Developing World (2010)
+- IDRC Conference on Open Development: Technological, Organizational and Social Innovations Transforming the Developing World (2010)
