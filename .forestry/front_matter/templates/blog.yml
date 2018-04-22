@@ -1,0 +1,35 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  name: date
+  label: date
+  description: the date you want your post to have
+  config:
+    date_format: YYYY/MM/DD
+    time_format: A ZZ
+    required: true
+- type: text
+  name: title
+  label: Title
+  description: Include a good heading for your post
+  config:
+    required: true
+- type: textarea
+  name: abstract
+  label: Abstract
+  description: This is a summary of the post for display in a list view
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: textarea
+  name: content_area
+  label: Content Area
+  description: this is the main content area
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
