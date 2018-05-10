@@ -40,3 +40,5 @@ title: Professional History
 - <a href="http://www.lse.ac.uk" target="_blank">LSE</a> Teaching Assistant, 2006-2009
 
 - Consultant at <a href="http://www.bearingpoint.com" target="_blank">BearingPoint</a>, 2005-2007
+
+- Intern for the Asia-Pacific Development Information Programme (part of the <a href="http://www.undp.org/content/undp/en/home.html" target="_blank"> United Nations Development Programme</a>), 2004-2005
