@@ -47,4 +47,4 @@ Book review of&nbsp;<a href="http://dx.doi.org/10.1093/scipol/sct019" target="_b
 
 Book review of&nbsp;<a href="https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/3477" target="_blank">&quot;Wiring Up The Big Brother Machine... And Fighting It&quot;</a>,<i>&nbsp;Surveillance &amp; Society&nbsp;</i>6(4): 416-417, 2009 [ISSN 1477-7487]
   
-<a href="https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/3282" target="_blank">&quot;Understanding Resistance to Digital Surveillance: Towards a Multi-disciplinary, Multi-actor Framework&quot;</a>, with R. E. van Brakel &amp; D. J. Bernhard, <i>Surveillance &amp; Society</i> 6(3): 213-232, 2009 [ISSN 1477-7487]
+<a href="https://doi.org/10.24908/ss.v6i3.3282" target="_blank">&quot;Understanding Resistance to Digital Surveillance: Towards a Multi-disciplinary, Multi-actor Framework&quot;</a>, with R. E. van Brakel &amp; D. J. Bernhard, <i>Surveillance &amp; Society</i> 6(3): 213-232, 2009 [ISSN 1477-7487]
