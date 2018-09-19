@@ -7,7 +7,7 @@ I am a technology policy expert specializing in cybersecurity, privacy and digit
 
 My research interests include cyber policy, critical infrastructure protection, surveillance, biometrics, technology regulation, cybersecurity in the financial services sector, and data and development. I am particularly interested in exploring these topics across the Global South.
 
-My recent publications include a chapter on cyber governance in the financial services sector. In 2016 I co-organized a <a href="https://www.cambridge.org/core/journals/african-studies-review/article/div-classtitleintroductiondiv/788C8F5BED1FE9AD46FC2D6613E23160" target="_blank">special forum on surveillance in Africa</a> for the African Studies Review.
+My recent publications include a <a href="https://doi.org/10.31235/osf.io/ybqgm" target="_blank">chapter on cyber governance in the financial services sector</a>. In 2016 I co-organized a <a href="https://www.cambridge.org/core/journals/african-studies-review/article/div-classtitleintroductiondiv/788C8F5BED1FE9AD46FC2D6613E23160" target="_blank">special forum on surveillance in Africa</a> for the African Studies Review.
 
 Prior to joining Tilburg Law School, I was a Vice President of Cyber Policy at JPMorgan Chase in New York from 2015-2018. I have also worked in tech policy roles at the OECD, European Commission's Joint Research Centre, Vodafone Group, and <a href="http://sixfouronea.net/professional-history/" target="_blank"> elsewhere</a>.
 
