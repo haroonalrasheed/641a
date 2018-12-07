@@ -7,6 +7,8 @@ title: Select Publications
 
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
+"Mobile Money Platform Surveillance", *Surveillance & Society*, Forthcoming [ISSN 1477-7487]
+
 <a href="https://doi.org/10.31235/osf.io/ybqgm" target="_blank">&quot;Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships&quot;</a>, with V. S. J. Menacho, in <i>Rewired: Cybersecurity Governance</i>, edited by R. Ellis & V. Mohan, Wiley, Forthcoming
    
 <a href="http://dx.doi.org/10.1017/asr.2016.35" target="_blank">&quot;Introduction to ASR Forum on Surveillance in Africa: Politics, Histories, Techniques&quot;</a>, with K. P. Donovan &amp; P. M. Frowd, <i>African Studies Review</i> 59(2): 31-37, 2016 [ISSN 0002-0206]
@@ -37,7 +39,7 @@ Book review of&nbsp;<a href="http://dx.doi.org/10.1093/scipol/sct019" target="_b
 
 <a href="http://personal.lse.ac.uk/martinak/IFIP.pdf" target="_blank">&quot;National Identity Infrastructures: Lessons from the United Kingdom&quot;</a>, in <i>ICT Critical Infrastructures and Society</i>, edited by M. D. Hercheui, D. Whitehouse, W. McIver Jr &amp; J. Phahlamohlaka, Springer: 44-55, 2012 [ISBN-13: 978-3-642-33331-6]
     
-<a href="http://www.oecd-ilibrary.org/science-and-technology/proactive-policy-measures-by-internet-service-providers-against-botnets_5k98tq42t18w-en" target="_blank">&quot;Proactive Policy Measures by Internet Service Providers against Botnets&quot;</a>, <i>OECD Digital Economy Papers</i> 199, Organisation for Economic Co-operation &amp; Development, OECD Publishing: 1-24, 2012<br>
+<a href="http://www.oecd-ilibrary.org/science-and-technology/proactive-policy-measures-by-internet-service-providers-against-botnets_5k98tq42t18w-en" target="_blank">&quot;Proactive Policy Measures by Internet Service Providers against Botnets&quot;</a>, <i>OECD Digital Economy Papers</i> 199, Organisation for Economic Co-operation &amp; Development, OECD Publishing: 1-24, 2012<br> [ISSN 2071-6826]
 
 <a href="https://www.privacyinternational.org/sites/default/files/Privacy_International_Medical_Privacy.pdf" target="_blank">&quot;Medical Privacy and Security in Developing Countries and Humanitarian Operations&quot;</a>, with G. Hosein, <i>Policy Engagement Network Paper</i> 7, London School of Economics &amp; Political Science, 2012<br>
 
