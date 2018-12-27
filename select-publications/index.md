@@ -13,9 +13,9 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 ["Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships"](https://doi.org/10.31235/osf.io/ybqgm), with V. S. J. Menacho, in *Rewired: Cybersecurity Governance*, edited by R. Ellis & V. Mohan, Wiley-Blackwell, Forthcoming
    
-<a href="http://dx.doi.org/10.1017/asr.2016.35" target="_blank">&quot;Introduction to ASR Forum on Surveillance in Africa: Politics, Histories, Techniques&quot;</a>, with K. P. Donovan &amp; P. M. Frowd, <i>African Studies Review</i> 59(2): 31-37, 2016 [ISSN 0002-0206]
+["Introduction to ASR Forum on Surveillance in Africa: Politics, Histories, Techniques"](http://dx.doi.org/10.1017/asr.2016.35), with K. P. Donovan & P. M. Frowd, *African Studies Review* 59(2): 31-37, 2016 [ISSN 0002-0206]
 
-&quot;Trust in the Digital Economy: Security and Privacy&quot;, with M. Donohue, in <a href="http://dx.doi.org/10.1787/9789264232440-en" target="_blank"><i>OECD Digital Economy Outlook 2015</i></a>; Organisation for Economic Co-operation &amp; Development,<i> </i>OECD Publishing: 209-238, 2015 [ISBN-13: 978-9-264-23227-3]
+"Trust in the Digital Economy: Security and Privacy", with M. Donohue, in [*OECD Digital Economy Outlook 2015*](http://dx.doi.org/10.1787/9789264232440-en), Organisation for Economic Co-operation & Development, OECD Publishing: 209-238, 2015 [ISBN-13: 978-9-264-23227-3]
 
 <a href="http://oe.cd/csirt-stat" target="_blank">&quot;Guidance for Improving the Comparability of Statistics Produced by Computer Security Incident Response Teams&quot;</a>, with T. Park, Organisation for Economic Co-operation &amp; Development, 2015
 
@@ -31,7 +31,7 @@ Book review of&nbsp;<a href="http://dx.doi.org/10.1093/scipol/sct019" target="_b
     
 <a href="http://dx.doi.org/10.2791/78739" target="_blank">&quot;Electronic Identity in Europe: Legal Challenges and Future Perspectives&quot;</a>, with N. Andrade &amp; S. Monteleone, <i>JRC Science and Policy Report </i>25834, European Commission, 2013 [ISSN 1831-9424]<br>
 
-<a href="http://www.sciencedirect.com/science/article/pii/S0308596113000761" target="_blank">&quot;Friending the Taxman: On the Use of Social Networking Services for Government eID in Europe&quot;</a>, with N. Andrade, <i>Telecommunications Policy</i> 37(9): 715-724, 2013 [ISSN 0308-5961]
+<a href="https://doi.org/10.1016/j.telpol.2013.05.005" target="_blank">&quot;Friending the Taxman: On the Use of Social Networking Services for Government eID in Europe&quot;</a>, with N. Andrade, <i>Telecommunications Policy</i> 37(9): 715-724, 2013 [ISSN 0308-5961]
 
 <a href="http://doi.ieeecomputersociety.org/10.1109/MSP.2013.22" target="_blank">&quot;&lsquo;All the Better to See You with, My Dear&rsquo;: Facial Recognition and Privacy in Online Social Networks&quot;</a>, with N. Andrade &amp; S. Monteleone,&nbsp;<i>IEEE Security &amp; Privacy Magazine </i>11(3): 21-28, 2013 [ISSN 1540-7993]
 
