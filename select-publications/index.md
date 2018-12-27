@@ -17,9 +17,9 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 "Trust in the Digital Economy: Security and Privacy", with M. Donohue, in [*OECD Digital Economy Outlook 2015*](http://dx.doi.org/10.1787/9789264232440-en), Organisation for Economic Co-operation & Development, OECD Publishing: 209-238, 2015 [ISBN-13: 978-9-264-23227-3]
 
-<a href="http://oe.cd/csirt-stat" target="_blank">&quot;Guidance for Improving the Comparability of Statistics Produced by Computer Security Incident Response Teams&quot;</a>, with T. Park, Organisation for Economic Co-operation &amp; Development, 2015
+["Guidance for Improving the Comparability of Statistics Produced by Computer Security Incident Response Teams"](http://oe.cd/csirt-stat), with T. Park, Organisation for Economic Co-operation & Development, 2015 [DSTI/ICCP/REG(2013)9/FINAL]
 
-<a href="http://dx.doi.org/10.1177/0963662513514173" target="_blank">&quot;New Surveillance Technologies and their Publics: A Case of Biometrics&quot;</a>, with K. P. Donovan,<i>&nbsp;Public Understanding of Science</i>&nbsp;24(7): 842–857, 2015<i>&nbsp;</i>[ISSN 0963-6625]
+["New Surveillance Technologies and their Publics: A Case of Biometrics"](http://dx.doi.org/10.1177/0963662513514173), with K. P. Donovan, *Public Understanding of Science* 24(7): 842–857, 2015 [ISSN 0963-6625]
 
 <a href="http://personal.lse.ac.uk/whitley/allpubs/hos2014.pdf" target="_blank">&quot;From Surveillance-by-Design to Privacy-by-Design: Evolving Identity Policy in the UK&quot;</a>, with E. A. Whitley &amp; G. Hosein, in&nbsp;<a href="http://www.amazon.co.uk/Histories-Surveillance-Europe-Beyond-Boersma/dp/0415829461" target="_blank"><i>Histories of State Surveillance in Europe and Beyond</i></a>, edited by K. Boersma, R. van Brakel, C. Fonio &amp; P. Wagenaar, Routledge: 205-219, 2014 [ISBN-13: 978-0-415-82946-5]
 
