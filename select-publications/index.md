@@ -21,9 +21,9 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 ["New Surveillance Technologies and their Publics: A Case of Biometrics"](http://dx.doi.org/10.1177/0963662513514173), with K. P. Donovan, *Public Understanding of Science* 24(7): 842–857, 2015 [ISSN 0963-6625]
 
-<a href="http://personal.lse.ac.uk/whitley/allpubs/hos2014.pdf" target="_blank">&quot;From Surveillance-by-Design to Privacy-by-Design: Evolving Identity Policy in the UK&quot;</a>, with E. A. Whitley &amp; G. Hosein, in&nbsp;<a href="http://www.amazon.co.uk/Histories-Surveillance-Europe-Beyond-Boersma/dp/0415829461" target="_blank"><i>Histories of State Surveillance in Europe and Beyond</i></a>, edited by K. Boersma, R. van Brakel, C. Fonio &amp; P. Wagenaar, Routledge: 205-219, 2014 [ISBN-13: 978-0-415-82946-5]
+["From Surveillance-by-Design to Privacy-by-Design: Evolving Identity Policy in the UK"](http://personal.lse.ac.uk/whitley/allpubs/hos2014.pdf), with E. A. Whitley & G. Hosein, in [*Histories of State Surveillance in Europe and Beyond*](https://www.routledge.com/Histories-of-State-Surveillance-in-Europe-and-Beyond/Boersma-van-Brakel-Fonio-Wagenaar/p/book/9780415829465), edited by K. Boersma, R. van Brakel, C. Fonio & P. Wagenaar, Routledge: 205-219, 2014 [ISBN-13: 978-0-415-82946-5]
 
-<a href="http://dx.doi.org/10.5210/fm.v19i2.4351" target="_blank">&quot;The Rise of African SIM Registration: The Emerging Dynamics of Regulatory Change&quot;</a>,&nbsp;with K. P. Donovan,&nbsp;<i>First Monday&nbsp;</i>19(2-3), 2014<i>&nbsp;</i>[ISSN 1396-0466]
+["The Rise of African SIM Registration: The Emerging Dynamics of Regulatory Change"](http://dx.doi.org/10.5210/fm.v19i2.4351), with K. P. Donovan, *First Monday* 19(2-3), 2014 [ISSN 1396-0466]
 
 <a href="https://prd-idrc.azureedge.net/sites/default/files/openebooks/541-1/index.html#ch09" target="_blank">&quot;Open Government and Citizen Identities: Promise, Peril, and Policy&quot;</a>, with C. M. Bonina, in&nbsp;<i><a href="http://www.idrc.ca/EN/Resources/Publications/Pages/IDRCBookDetails.aspx?PublicationID=1274" target="_blank">Open Development: Networked Innovations in International Development</a></i>, edited by M. L. Smith &amp; K. M. A. Reilly, MIT Press: 223-247, 2014 [ISBN-13: 978-0-262-52541-1]
 
