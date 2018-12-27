@@ -7,11 +7,11 @@ title: Select Publications
 
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
-"Humanitarian Innovation and Regulatory Sandboxes", *UNHCR Year in Review 2018*, with G. Balestra, Forthcoming
+"Humanitarian Innovation and Regulatory Sandboxes", *UNHCR Innovation Service Year in Review 2018*, with G. Balestra, Forthcoming
 
-"Mobile Money Platform Surveillance", *Surveillance & Society*, Forthcoming [ISSN 1477-7487]
+"Mobile Money Platform Surveillance", *Surveillance & Society*, Under Review [ISSN 1477-7487]
 
-<a href="https://doi.org/10.31235/osf.io/ybqgm" target="_blank">&quot;Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships&quot;</a>, with V. S. J. Menacho, in <i>Rewired: Cybersecurity Governance</i>, edited by R. Ellis & V. Mohan, Wiley-Blackwell, Forthcoming
+[https://doi.org/10.31235/osf.io/ybqgm]("Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships"), with V. S. J. Menacho, in *Rewired: Cybersecurity Governance*, edited by R. Ellis & V. Mohan, Wiley-Blackwell, Forthcoming
    
 <a href="http://dx.doi.org/10.1017/asr.2016.35" target="_blank">&quot;Introduction to ASR Forum on Surveillance in Africa: Politics, Histories, Techniques&quot;</a>, with K. P. Donovan &amp; P. M. Frowd, <i>African Studies Review</i> 59(2): 31-37, 2016 [ISSN 0002-0206]
 
