@@ -25,11 +25,11 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 ["The Rise of African SIM Registration: The Emerging Dynamics of Regulatory Change"](http://dx.doi.org/10.5210/fm.v19i2.4351), with K. P. Donovan, *First Monday* 19(2-3), 2014 [ISSN 1396-0466]
 
-<a href="https://prd-idrc.azureedge.net/sites/default/files/openebooks/541-1/index.html#ch09" target="_blank">&quot;Open Government and Citizen Identities: Promise, Peril, and Policy&quot;</a>, with C. M. Bonina, in&nbsp;<i><a href="http://www.idrc.ca/EN/Resources/Publications/Pages/IDRCBookDetails.aspx?PublicationID=1274" target="_blank">Open Development: Networked Innovations in International Development</a></i>, edited by M. L. Smith &amp; K. M. A. Reilly, MIT Press: 223-247, 2014 [ISBN-13: 978-0-262-52541-1]
+["Open Government and Citizen Identities: Promise, Peril, and Policy"](https://prd-idrc.azureedge.net/sites/default/files/openebooks/541-1/index.html#ch09), with C. M. Bonina, in [*Open Development: Networked Innovations in International Development*](http://www.idrc.ca/EN/Resources/Publications/Pages/IDRCBookDetails.aspx?PublicationID=1274), edited by M. L. Smith & K. M. A. Reilly, MIT Press: 223-247, 2014 [ISBN-13: 978-0-262-52541-1]
 
-Book review of&nbsp;<a href="http://dx.doi.org/10.1093/scipol/sct019" target="_blank">&quot;Innovation, Dual Use, and Security: Managing the Risks of Emerging Biological and Chemical Technologies&quot;</a>, <i>Science &amp; Public Policy</i> 40(6): 824-826, 2013 [ISSN 1471-5430]
+Book review of ["Innovation, Dual Use, and Security: Managing the Risks of Emerging Biological and Chemical Technologies"](http://dx.doi.org/10.1093/scipol/sct019), *Science & Public Policy* 40(6): 824-826, 2013 [ISSN 1471-5430]
     
-<a href="http://dx.doi.org/10.2791/78739" target="_blank">&quot;Electronic Identity in Europe: Legal Challenges and Future Perspectives&quot;</a>, with N. Andrade &amp; S. Monteleone, <i>JRC Science and Policy Report </i>25834, European Commission, 2013 [ISSN 1831-9424]<br>
+["Electronic Identity in Europe: Legal Challenges and Future Perspectives"](http://dx.doi.org/10.2791/78739), with N. Andrade & S. Monteleone, *JRC Science and Policy Report* 25834, European Commission, 2013 [ISSN 1831-9424]
 
 <a href="https://doi.org/10.1016/j.telpol.2013.05.005" target="_blank">&quot;Friending the Taxman: On the Use of Social Networking Services for Government eID in Europe&quot;</a>, with N. Andrade, <i>Telecommunications Policy</i> 37(9): 715-724, 2013 [ISSN 0308-5961]
 
