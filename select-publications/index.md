@@ -31,24 +31,24 @@ Book review of ["Innovation, Dual Use, and Security: Managing the Risks of Emerg
     
 ["Electronic Identity in Europe: Legal Challenges and Future Perspectives"](http://dx.doi.org/10.2791/78739), with N. Andrade & S. Monteleone, *JRC Science and Policy Report* 25834, European Commission, 2013 [ISSN 1831-9424]
 
-<a href="https://doi.org/10.1016/j.telpol.2013.05.005" target="_blank">&quot;Friending the Taxman: On the Use of Social Networking Services for Government eID in Europe&quot;</a>, with N. Andrade, <i>Telecommunications Policy</i> 37(9): 715-724, 2013 [ISSN 0308-5961]
+["Friending the Taxman: On the Use of Social Networking Services for Government eID in Europe"](https://doi.org/10.1016/j.telpol.2013.05.005), with N. Andrade, *Telecommunications Policy* 37(9): 715-724, 2013 [ISSN 0308-5961]
 
-<a href="http://doi.ieeecomputersociety.org/10.1109/MSP.2013.22" target="_blank">&quot;&lsquo;All the Better to See You with, My Dear&rsquo;: Facial Recognition and Privacy in Online Social Networks&quot;</a>, with N. Andrade &amp; S. Monteleone,&nbsp;<i>IEEE Security &amp; Privacy Magazine </i>11(3): 21-28, 2013 [ISSN 1540-7993]
+["'All the Better to See You with, My Dear': Facial Recognition and Privacy in Online Social Networks"](http://doi.ieeecomputersociety.org/10.1109/MSP.2013.22), with N. Andrade & S. Monteleone, *IEEE Security & Privacy Magazine* 11(3): 21-28, 2013 [ISSN 1540-7993]
 
-<a href="https://doi.org/10.1177/0163443712464558" target="_blank">&quot;Fixing Identity? Biometrics and the Tensions of Material Practices&quot;</a>, with E. A. Whitley,&nbsp;<i>Media, Culture &amp; Society</i>&nbsp;35(1): 52–60, 2013 [ISSN 0163-4437]
+["Fixing Identity? Biometrics and the Tensions of Material Practices"](https://doi.org/10.1177/0163443712464558), with E. A. Whitley, *Media, Culture & Society* 35(1): 52–60, 2013 [ISSN 0163-4437]
 
-<a href="http://ejlt.org/article/view/158/238" target="_blank">&quot;Battling Botnets with Digital Rights in Mind&quot;</a>, with N. Andrade, <i>European Journal of Law &amp; Technology</i> 3(2), 2012 [ISSN 2042-115X]
+["Battling Botnets with Digital Rights in Mind"](http://ejlt.org/article/view/158/238), with N. Andrade, *European Journal of Law & Technology* 3(2), 2012 [ISSN 2042-115X]
 
-<a href="https://doi.org/10.1007/978-3-642-33332-3_5" target="_blank">&quot;National Identity Infrastructures: Lessons from the United Kingdom&quot;</a>, in <i>ICT Critical Infrastructures and Society</i>, edited by M. D. Hercheui, D. Whitehouse, W. McIver Jr &amp; J. Phahlamohlaka, Springer: 44-55, 2012 [ISBN-13: 978-3-642-33331-6]
+["National Identity Infrastructures: Lessons from the United Kingdom"](https://doi.org/10.1007/978-3-642-33332-3_5), in [*ICT Critical Infrastructures and Society*](https://link.springer.com/book/10.1007/978-3-642-33332-3), edited by M. D. Hercheui, D. Whitehouse, W. McIver Jr & J. Phahlamohlaka, Springer: 44-55, 2012 [ISBN-13: 978-3-642-33331-6]
     
-<a href="https://doi.org/10.1787/5k98tq42t18w-en" target="_blank">&quot;Proactive Policy Measures by Internet Service Providers against Botnets&quot;</a>, <i>OECD Digital Economy Papers</i> 199, Organisation for Economic Co-operation &amp; Development, OECD Publishing: 1-24, 2012<br> [ISSN 2071-6826]
+["Proactive Policy Measures by Internet Service Providers against Botnets"](https://doi.org/10.1787/5k98tq42t18w-en), *OECD Digital Economy Papers* 199, Organisation for Economic Co-operation & Development, OECD Publishing: 1-24, 2012 [ISSN 2071-6826]
 
-<a href="https://www.privacyinternational.org/sites/default/files/Privacy_International_Medical_Privacy.pdf" target="_blank">&quot;Medical Privacy and Security in Developing Countries and Humanitarian Operations&quot;</a>, with G. Hosein, <i>Policy Engagement Network Paper</i> 7, London School of Economics &amp; Political Science, 2012<br>
+["Medical Privacy and Security in Developing Countries and Humanitarian Operations"](https://www.privacyinternational.org/sites/default/files/Privacy_International_Medical_Privacy.pdf), with G. Hosein, *Policy Engagement Network Paper* 7, London School of Economics & Political Science, 2012
 
-<a href="https://doi.org/10.4324/9780203827475_chapter_1" target="_blank">&quot;Rethinking Security at the Olympics&quot;</a>, with D. J. Bernhard, in <i>Security Games: Surveillance and Control at Mega-Events</i>, edited by C.J. Bennett &amp; K. D. Haggerty, Routledge: 20-35, 2011 [ISBN-13: 978-0-415-60262-4]
+["Rethinking Security at the Olympics"](https://doi.org/10.4324/9780203827475_chapter_1), with D. J. Bernhard, in [*Security Games: Surveillance and Control at Mega-Events*](https://www.routledge.com/Security-Games-Surveillance-and-Control-at-Mega-Events-1st-Edition/Bennett-Haggerty/p/book/9780415602624), edited by C.J. Bennett & K. D. Haggerty, Routledge: 20-35, 2011 [ISBN-13: 978-0-415-60262-4]
 
-<a href="https://doi.org/10.17705/1CAIS.02601" target="_blank">&quot;Automating the Public Sector and Organizing Accountabilities&quot;</a>, with M. L. Smith &amp; M. E. Noorman, <i>Communications of the Association for Information Systems</i> 26(1): 1-16, 2010 [ISSN 1529-3181]
+["Automating the Public Sector and Organizing Accountabilities"](https://doi.org/10.17705/1CAIS.02601), with M. L. Smith & M. E. Noorman, *Communications of the Association for Information Systems* 26(1): 1-16, 2010 [ISSN 1529-3181]
 
-Book review of&nbsp;<a href="https://doi.org/10.24908/ss.v8i1.3477" target="_blank">&quot;Wiring Up The Big Brother Machine... And Fighting It&quot;</a>,<i>&nbsp;Surveillance &amp; Society&nbsp;</i>6(4): 416-417, 2009 [ISSN 1477-7487]
+Book review of ["Wiring Up The Big Brother Machine... And Fighting It"](https://doi.org/10.24908/ss.v8i1.3477), *Surveillance & Society* 6(4): 416-417, 2009 [ISSN 1477-7487]
   
-<a href="https://doi.org/10.24908/ss.v6i3.3282" target="_blank">&quot;Understanding Resistance to Digital Surveillance: Towards a Multi-disciplinary, Multi-actor Framework&quot;</a>, with R. E. van Brakel &amp; D. J. Bernhard, <i>Surveillance &amp; Society</i> 6(3): 213-232, 2009 [ISSN 1477-7487]
+["Understanding Resistance to Digital Surveillance: Towards a Multi-disciplinary, Multi-actor Framework"](https://doi.org/10.24908/ss.v6i3.3282), with R. E. van Brakel & D. J. Bernhard, *Surveillance & Society* 6(3): 213-232, 2009 [ISSN 1477-7487]
