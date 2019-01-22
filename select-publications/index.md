@@ -43,7 +43,7 @@ Book review of ["Innovation, Dual Use, and Security: Managing the Risks of Emerg
     
 ["Proactive Policy Measures by Internet Service Providers against Botnets"](https://doi.org/10.1787/5k98tq42t18w-en), *OECD Digital Economy Papers* 199, Organisation for Economic Co-operation & Development, OECD Publishing: 1-24, 2012 [ISSN 2071-6826]
 
-["Medical Privacy and Security in Developing Countries and Humanitarian Operations"](https://www.privacyinternational.org/sites/default/files/Privacy_International_Medical_Privacy.pdf), with G. Hosein, *Policy Engagement Network Paper* 7, London School of Economics & Political Science, 2012
+["Medical Privacy and Security in Developing Countries and Humanitarian Operations"](https://privacyinternational.org/report/726/medical-privacy-and-security-developing-countries-and-emergency-situations), with G. Hosein, *Policy Engagement Network Paper* 7, London School of Economics & Political Science, 2012
 
 ["Rethinking Security at the Olympics"](https://doi.org/10.4324/9780203827475_chapter_1), with D. J. Bernhard, in [*Security Games: Surveillance and Control at Mega-Events*](https://www.routledge.com/Security-Games-Surveillance-and-Control-at-Mega-Events-1st-Edition/Bennett-Haggerty/p/book/9780415602624), edited by C.J. Bennett & K. D. Haggerty, Routledge: 20-35, 2011 [ISBN-13: 978-0-415-60262-4]
 
