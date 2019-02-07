@@ -11,7 +11,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 "Mobile Money Platform Surveillance", *Surveillance & Society*, Forthcoming [ISSN 1477-7487]
 
-["Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships"](https://doi.org/10.31235/osf.io/ybqgm), with V. S. J. Menacho, in *Rewired: Cybersecurity Governance*, edited by R. Ellis & V. Mohan, Wiley-Blackwell: 97-115, 2019 [ISBN-13: 978-1-118-88821-6] 
+["Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships"](https://doi.org/10.31235/osf.io/ybqgm), with V. S. Juan, in *Rewired: Cybersecurity Governance*, edited by R. Ellis & V. Mohan, Wiley-Blackwell: 97-115, 2019 [ISBN-13: 978-1-118-88821-6] 
    
 ["Introduction to ASR Forum on Surveillance in Africa: Politics, Histories, Techniques"](http://dx.doi.org/10.1017/asr.2016.35), with K. P. Donovan & P. M. Frowd, *African Studies Review* 59(2): 31-37, 2016 [ISSN 0002-0206]
 
