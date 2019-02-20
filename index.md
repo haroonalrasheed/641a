@@ -3,7 +3,7 @@ layout: default
 title: Aaron K. Martin, PhD
 ---
 
-I am a technology policy expert specializing in cybersecurity, privacy, and digital identity. In 2018 I joined the Tilburg Law School in the Netherlands as a Postdoctoral Research Fellow in Data Ethics on the [Global Data Justice project](https://globaldatajustice.org).
+I am a technology policy expert specializing in cybersecurity, privacy, and digital identity. In 2018 I joined the Tilburg Law School in the Netherlands as a Postdoctoral Research Fellow in Data Governance on the [Global Data Justice project](https://globaldatajustice.org).
 
 My research interests include cyber policy, critical infrastructure protection, surveillance, biometrics, technology regulation, cybersecurity in the financial services sector, and data in development and humanitarian contexts. I am particularly interested in exploring these topics across the Global South.
 
