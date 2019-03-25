@@ -7,11 +7,13 @@ title: Select Publications
 
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
-"Humanitarian Innovation and Regulatory Sandboxes", *UNHCR Innovation Service Year in Review 2018*, with G. Balestra, Forthcoming
+"Humanitarian Innovation and Regulatory Sandboxes", with G. Balestra, in *Orbit 2018-2019*, UNHCR Innovation Service, Forthcoming
 
-"Mobile Money Platform Surveillance", *Surveillance & Society*, Forthcoming [ISSN 1477-7487]
+"Mobile Money Platform Surveillance", *Surveillance & Society* 17(1), Forthcoming [ISSN 1477-7487]
 
-["Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships"](https://doi.org/10.31235/osf.io/ybqgm), with V. S. Juan, in *Rewired: Cybersecurity Governance*, edited by R. Ellis & V. Mohan, Wiley-Blackwell: 97-115, 2019 [ISBN-13: 978-1-118-88821-6] 
+["Displaced and Disconnected"](https://www.unhcr.org/innovation/displaced-and-disconnected/), *Connectivity for Refugees*, UNHCR Innovation Service, 2019
+
+["Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships"](https://doi.org/10.31235/osf.io/ybqgm), with V. S. Juan, in [*Rewired: Cybersecurity Governance*](https://www.wiley.com/en-nl/Rewired%3A+Cybersecurity+Governance+-p-9781118888216), edited by R. Ellis & V. Mohan, Wiley-Blackwell: 97-115, 2019 [ISBN-13: 978-1-118-88821-6] 
    
 ["Introduction to ASR Forum on Surveillance in Africa: Politics, Histories, Techniques"](http://dx.doi.org/10.1017/asr.2016.35), with K. P. Donovan & P. M. Frowd, *African Studies Review* 59(2): 31-37, 2016 [ISSN 0002-0206]
 
