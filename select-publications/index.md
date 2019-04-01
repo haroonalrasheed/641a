@@ -9,7 +9,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 "Humanitarian Innovation and Regulatory Sandboxes", with G. Balestra, in *Orbit 2018-2019*, UNHCR Innovation Service, Forthcoming
 
-"Mobile Money Platform Surveillance", *Surveillance & Society* 17(1), Forthcoming [ISSN 1477-7487]
+["Mobile Money Platform Surveillance"](https://doi.org/10.24908/ss.v17i1/2.12924), *Surveillance & Society* 17(1/2): 213-222, 2019 [ISSN 1477-7487]
 
 ["Displaced and Disconnected"](https://www.unhcr.org/innovation/displaced-and-disconnected/), *Connectivity for Refugees*, UNHCR Innovation Service, 2019
 
