@@ -11,7 +11,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 ["Displaced and Disconnected"](https://www.unhcr.org/innovation/displaced-and-disconnected/), *Connectivity for Refugees*, UNHCR Innovation Service, 2019
 
-["Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships"](https://doi.org/10.31235/osf.io/ybqgm), with V. San Juan, in [*Rewired: Cybersecurity Governance*](https://www.wiley.com/en-nl/Rewired%3A+Cybersecurity+Governance+-p-9781118888216), edited by R. Ellis & V. Mohan, Wiley-Blackwell: 97-115, 2019 [ISBN-13: 978-1-118-88821-6] 
+["Cyber Governance and the Financial Services Sector: The Role of Public-Private Partnerships"](https://sixfouronea.net/CyberGovernanceFSS.pdf), with V. San Juan, in [*Rewired: Cybersecurity Governance*](https://www.wiley.com/en-nl/Rewired%3A+Cybersecurity+Governance+-p-9781118888216), edited by R. Ellis & V. Mohan, Wiley-Blackwell: 97-115, 2019 [ISBN-13: 978-1-118-88821-6] 
    
 ["Introduction to ASR Forum on Surveillance in Africa: Politics, Histories, Techniques"](http://dx.doi.org/10.1017/asr.2016.35), with K. P. Donovan & P. M. Frowd, *African Studies Review* 59(2): 31-37, 2016 [ISSN 0002-0206]
 
@@ -33,7 +33,7 @@ Book review of ["Innovation, Dual Use, and Security: Managing the Risks of Emerg
 
 ["Friending the Taxman: On the Use of Social Networking Services for Government eID in Europe"](https://doi.org/10.1016/j.telpol.2013.05.005), with N. Andrade, *Telecommunications Policy* 37(9): 715-724, 2013 [ISSN 0308-5961]
 
-["'All the Better to See You with, My Dear': Facial Recognition and Privacy in Online Social Networks"](http://doi.ieeecomputersociety.org/10.1109/MSP.2013.22), with N. Andrade & S. Monteleone, *IEEE Security & Privacy Magazine* 11(3): 21-28, 2013 [ISSN 1540-7993]
+["'All the Better to See You with, My Dear': Facial Recognition and Privacy in Online Social Networks"](http://doi.ieeecomputersociety.org/10.1109/MSP.2013.22), with N. Andrade & S. Monteleone, *IEEE Security & Privacy* 11(3): 21-28, 2013 [ISSN 1540-7993]
 
 ["Fixing Identity? Biometrics and the Tensions of Material Practices"](https://doi.org/10.1177/0163443712464558), with E. A. Whitley, *Media, Culture & Society* 35(1): 52–60, 2013 [ISSN 0163-4437]
 
