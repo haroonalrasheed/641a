@@ -7,7 +7,7 @@ title: Select Publications
 
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
-"Using Regulatory Sandboxes to Support Responsible Innovation in the Humanitarian Sector", with G. Balestra, _Global Policy_, Forthcoming [ISSN 1758-5899]
+["Using Regulatory Sandboxes to Support Responsible Innovation in the Humanitarian Sector"](https://doi.org/10.1111/1758-5899.12729), with G. Balestra, _Global Policy_, Early View [ISSN 1758-5899]
 
 ["Mobile Money Platform Surveillance"](https://doi.org/10.24908/ss.v17i1/2.12924), *Surveillance & Society* 17(1/2): 213-222, 2019 [ISSN 1477-7487]
 
