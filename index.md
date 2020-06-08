@@ -7,7 +7,7 @@ I am a technology policy expert specializing in cybersecurity, privacy, and digi
 
 My research interests include cyber policy, critical infrastructure protection, surveillance, biometrics, technology regulation, cybersecurity in the financial services sector, and data in development and humanitarian contexts. I am particularly interested in exploring these topics across the Global South.
 
-My recent publications include a [note](https://doi.org/10.1111/1758-5899.12729) on the use of regulatory sandboxes to stimulate responsible humanitarian innovation, a [book chapter](/CyberGovernanceFSS.pdf) on cyber governance in the financial services sector and an [article](https://doi.org/10.24908/ss.v17i1/2.12924) on the surveillance of mobile money platforms.
+I am currently co-editing a book on data justice and COVID-19 (to be published by [Meatspace Press](https://meatspacepress.com) in August 2020). My recent publications include a [note](https://doi.org/10.1111/1758-5899.12729) on the use of regulatory sandboxes to stimulate responsible humanitarian innovation, a [book chapter](/CyberGovernanceFSS.pdf) on cyber governance in the financial services sector and an [article](https://doi.org/10.24908/ss.v17i1/2.12924) on the surveillance of mobile money platforms.
 
 Prior to joining Tilburg Law School, I was a Vice President of Cyber Policy at JPMorgan Chase in New York from 2015-2018. I have also worked in tech policy roles at the OECD, European Commission's Joint Research Centre, Vodafone Group, and [elsewhere](http://sixfouronea.net/professional-history/).
 
