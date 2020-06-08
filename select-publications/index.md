@@ -9,11 +9,14 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 "Introduction: What does the COVID-19 response mean for global data justice?", with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press, forthcoming
 
+"Desplazados y Desconectados: Understanding legal and regulatory barriers to forcibly displaced persons’ access to connectivity
+and financial services in South America", with E. Perez Iglesias, UN Refugee Agency, forthcoming
+
 ["Using Regulatory Sandboxes to Support Responsible Innovation in the Humanitarian Sector"](https://doi.org/10.1111/1758-5899.12729), with G. Balestra, *Global Policy* 10(4): 733-736, 2019 [ISSN 1758-5899]
 
 ["Mobile Money Platform Surveillance"](https://doi.org/10.24908/ss.v17i1/2.12924), *Surveillance & Society* 17(1/2): 213-222, 2019 [ISSN 1477-7487]
 
-["Displaced and Disconnected"](https://www.unhcr.org/innovation/displaced-and-disconnected/), *Connectivity for Refugees*, UNHCR Innovation Service, 2019
+["Displaced and Disconnected"](https://www.unhcr.org/innovation/displaced-and-disconnected/), *Connectivity for Refugees*, UN Refugee Agency, 2019
 
 ["Cyber Governance and the Financial Services Sector: The role of public-private partnerships"](https://sixfouronea.net/CyberGovernanceFSS.pdf), with V. San Juan, in [*Rewired: Cybersecurity Governance*](https://www.wiley.com/en-nl/Rewired%3A+Cybersecurity+Governance+-p-9781118888216), edited by R. Ellis & V. Mohan, Wiley-Blackwell: 97-115, 2019 [ISBN-13: 978-1-118-88821-6] 
    
