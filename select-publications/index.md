@@ -12,6 +12,8 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 "Desplazados y Desconectados: Understanding legal and regulatory barriers to forcibly displaced persons’ access to connectivity
 and financial services in South America", with E. Perez Iglesias, UN Refugee Agency, forthcoming
 
+"Exclusion and Inclusion in Identification: Regulatory policy, displacement, and data justice", with L. Taylor, *Information Technology for Development*, forthcoming
+
 ["Using Regulatory Sandboxes to Support Responsible Innovation in the Humanitarian Sector"](https://doi.org/10.1111/1758-5899.12729), with G. Balestra, *Global Policy* 10(4): 733-736, 2019 [ISSN 1758-5899]
 
 ["Mobile Money Platform Surveillance"](https://doi.org/10.24908/ss.v17i1/2.12924), *Surveillance & Society* 17(1/2): 213-222, 2019 [ISSN 1477-7487]
@@ -20,7 +22,7 @@ and financial services in South America", with E. Perez Iglesias, UN Refugee Age
 
 ["Cyber Governance and the Financial Services Sector: The role of public-private partnerships"](https://sixfouronea.net/CyberGovernanceFSS.pdf), with V. San Juan, in [*Rewired: Cybersecurity Governance*](https://www.wiley.com/en-nl/Rewired%3A+Cybersecurity+Governance+-p-9781118888216), edited by R. Ellis & V. Mohan, Wiley-Blackwell: 97-115, 2019 [ISBN-13: 978-1-118-88821-6] 
    
-["Introduction - ASR Forum on Surveillance in Africa: Politics, histories, techniques"](http://dx.doi.org/10.1017/asr.2016.35), with K. P. Donovan & P. M. Frowd, *African Studies Review* 59(2): 31-37, 2016 [ISSN 0002-0206]
+["Surveillance in Africa: Politics, histories, techniques"](http://dx.doi.org/10.1017/asr.2016.35), with K. P. Donovan & P. M. Frowd, *African Studies Review* 59(2): 31-37, 2016 [ISSN 0002-0206]
 
 "Trust in the Digital Economy: Security and privacy", with M. Donohue, in [*OECD Digital Economy Outlook 2015*](http://dx.doi.org/10.1787/9789264232440-en), Organisation for Economic Co-operation & Development, OECD Publishing: 209-238, 2015 [ISBN-13: 978-9-264-23227-3]
 
