@@ -11,7 +11,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 "Exclusion and Inclusion in Identification: Regulatory policy, displacement, and data justice", with L. Taylor, *Information Technology for Development*, forthcoming
 
-"[Desplazados y Desconectados: Understanding legal and regulatory barriers to forcibly displaced persons’ access to connectivity
+"[*Desplazados y Desconectados*: Understanding legal and regulatory barriers to forcibly displaced persons’ access to connectivity
 and financial services in South America"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, UN Refugee Agency, 2020
 
 ["Using Regulatory Sandboxes to Support Responsible Innovation in the Humanitarian Sector"](https://doi.org/10.1111/1758-5899.12729), with G. Balestra, *Global Policy* 10(4): 733-736, 2019 [ISSN 1758-5899]
