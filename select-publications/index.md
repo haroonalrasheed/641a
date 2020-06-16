@@ -14,6 +14,8 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 "[*Desplazados y Desconectados*: Understanding legal and regulatory barriers to forcibly displaced persons’ access to connectivity
 and financial services in South America"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, UN Refugee Agency, 2020
 
+Briefing paper on "Data Governance", with G. Sharma, Digital Future Society Global Forum, Barcelona, Spain, 2020
+
 ["Using Regulatory Sandboxes to Support Responsible Innovation in the Humanitarian Sector"](https://doi.org/10.1111/1758-5899.12729), with G. Balestra, *Global Policy* 10(4): 733-736, 2019 [ISSN 1758-5899]
 
 ["Mobile Money Platform Surveillance"](https://doi.org/10.24908/ss.v17i1/2.12924), *Surveillance & Society* 17(1/2): 213-222, 2019 [ISSN 1477-7487]
