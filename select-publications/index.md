@@ -5,7 +5,7 @@ title: Select Publications
 
 ## Select Publications
 
-_[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
+_[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
 "Introduction: What does the COVID-19 response mean for global data justice?", with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press, forthcoming
 
