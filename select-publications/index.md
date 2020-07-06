@@ -11,8 +11,8 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 "Exclusion and Inclusion in Identification: Regulation, displacement, and data justice", with L. Taylor, *Information Technology for Development*, forthcoming
 
-"[*Desplazados y Desconectados*: Understanding legal and regulatory barriers to forcibly displaced persons’ access to connectivity
-and financial services in South America"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, UN Refugee Agency, 2020
+"[*Desplazados y Desconectados*]: Understanding legal and regulatory barriers to forcibly displaced persons’ access to connectivity
+and financial services in South America"(https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, UN Refugee Agency, 2020
 
 Briefing paper on "Data Governance", with G. Sharma, Digital Future Society Global Forum, Barcelona, Spain, 2020
 
