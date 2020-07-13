@@ -7,7 +7,7 @@ title: Select Publications
 
 _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
-"Introduction: What does the COVID-19 response mean for global data justice?", with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press, forthcoming [ISBN-13: 978-1-913824-00-6]
+"What does the COVID-19 response mean for global data justice?", with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press, forthcoming [ISBN-13: 978-1-913824-00-6]
 
 "Exclusion and Inclusion in Identification: Regulation, displacement, and data justice", with L. Taylor, *Information Technology for Development*, forthcoming
 
