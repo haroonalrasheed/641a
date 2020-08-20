@@ -7,11 +7,11 @@ title: Select Publications
 
 _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
-"What does the COVID-19 response mean for global data justice?", with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press, forthcoming [ISBN-13: 978-1-913824-00-6]
+["Exclusion and Inclusion in Identification: Regulation, displacement, and data justice"](https://doi.org/10.1080/02681102.2020.1811943), with L. Taylor, *Information Technology for Development*, forthcoming
 
-"Exclusion and Inclusion in Identification: Regulation, displacement, and data justice", with L. Taylor, *Information Technology for Development*, forthcoming
+["What does the COVID-19 response mean for global data justice?"](https://ia801504.us.archive.org/25/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press: 8-17, 2020 [ISBN-13: 978-1-913824-00-6]
 
-"[Desplazados y Desconectados: Understanding legal and regulatory barriers to forcibly displaced persons’ access to connectivity
+["Desplazados y Desconectados: Understanding legal and regulatory barriers to forcibly displaced persons’ access to connectivity
 and financial services in South America"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, UN Refugee Agency, 2020
 
 Briefing paper on "Data Governance", with G. Sharma, Digital Future Society Global Forum, Barcelona, Spain, 2020
