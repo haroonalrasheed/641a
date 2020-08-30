@@ -48,7 +48,7 @@ Book review of ["Innovation, Dual Use, and Security: Managing the risks of emerg
 
 ["Fixing Identity? Biometrics and the tensions of material practices"](https://doi.org/10.1177/0163443712464558), with E. A. Whitley, *Media, Culture & Society* 35(1): 52–60, 2013 [ISSN 0163-4437]
 
-["Battling Botnets with Digital Rights in Mind"](http://ejlt.org/article/view/158/238), with N. Andrade, *European Journal of Law & Technology* 3(2), 2012 [ISSN 2042-115X]
+["Battling Botnets with Digital Rights in Mind"](https://ejlt.org/index.php/ejlt/article/view/158), with N. Andrade, *European Journal of Law & Technology* 3(2), 2012 [ISSN 2042-115X]
 
 ["National Identity Infrastructures: Lessons from the United Kingdom"](https://doi.org/10.1007/978-3-642-33332-3_5), in [*ICT Critical Infrastructures and Society*](https://link.springer.com/book/10.1007/978-3-642-33332-3), edited by M. D. Hercheui, D. Whitehouse, W. McIver Jr & J. Phahlamohlaka, Springer: 44-55, 2012 [ISBN-13: 978-3-642-33331-6]
     
