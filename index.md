@@ -11,4 +11,4 @@ This year I co-edited an open-access book on data justice and COVID-19 published
 
 Prior to joining Tilburg Law School, I was a Vice President of Cyber Policy at JPMorgan Chase in New York from 2015-2018. Before that I worked in tech policy roles at the OECD, European Commission's Joint Research Centre, Vodafone Group, and [elsewhere](http://sixfouronea.net/professional-history/).
 
-I am consultant on connectivity topics to the UN Refugee Agency (UNHCR). I am also the Managing Editor of the open-access journal, [_Technology and Regulation_](http://techreg.org), which launched in 2019. I have a PhD in Information Systems and Innovation from the London School of Economics and Political Science, where I studied biometrics from 2006-2011.
+I am consultant on connectivity topics to the UN Refugee Agency (UNHCR). I have a PhD in Information Systems and Innovation from the London School of Economics and Political Science, where I studied biometrics from 2006-2011.
