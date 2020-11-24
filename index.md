@@ -9,6 +9,6 @@ My research interests include cyber policy, critical infrastructure protection, 
 
 This year I co-edited an open-access book on data justice and COVID-19 published by [Meatspace Press](https://meatspacepress.com). My recent journal publications include a [research essay](https://doi.org/10.1080/02681102.2020.1811943) on the impacts of customer identification requirements on refugees, a [note](https://doi.org/10.1111/1758-5899.12729) on the use of regulatory sandboxes to stimulate responsible humanitarian innovation, and an [article](https://doi.org/10.24908/ss.v17i1/2.12924) on the surveillance of mobile money platforms.
 
-Prior to joining Tilburg Law School, I was a Vice President of Cyber Policy at JPMorgan Chase in New York from 2015-2018. Before that I worked in tech policy roles at the OECD, European Commission's Joint Research Centre, Vodafone Group, and [elsewhere](http://sixfouronea.net/professional-history/).
+Prior to joining Tilburg Law School, I was a Vice President of Cyber Policy at JPMorgan Chase in New York from 2015-2018. Before that I worked in tech policy roles at the OECD, European Commission's Joint Research Centre, Vodafone Group, and [elsewhere](http://sixfouronea.net/professional-history/). I have lectured at the London School of Economics and Political Science (LSE), Cornell Tech, and NYU Stern.
 
-I am consultant on connectivity topics to the UN Refugee Agency (UNHCR). I have a PhD in Information Systems and Innovation from the London School of Economics and Political Science, where I studied biometrics from 2006-2011.
+I am consultant on connectivity topics to the UN Refugee Agency (UNHCR). I have a PhD in Information Systems and Innovation from the LSE, where I studied biometrics from 2006-2011.
