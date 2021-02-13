@@ -7,6 +7,10 @@ title: Select Publications
 
 _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
+"Between Surveillance and Recognition: Rethinking digital identity technologies in aid", with K. Weitzberg , M. Cheesman & E. Schoemaker, *Big Data & Society*, forthcoming [ISSN 2053-9517]
+
+"Aadhaar in a Box? Legitimizing digital identity in times of crisis", *Surveillance & Society*, forthcoming [ISSN 1477-7487]
+
 "Connecting with Confidence: Managing digital risks to refugee connectivity", with T. Bouffet and J. Warnes, UN Refugee Agency, forthcoming
 
 ["Exclusion and Inclusion in Identification: Regulation, displacement, and data justice"](https://doi.org/10.1080/02681102.2020.1811943), with L. Taylor, *Information Technology for Development* 27(1): 50-66, 2021 [ISSN 1554-0170]
