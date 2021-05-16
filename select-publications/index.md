@@ -11,11 +11,11 @@ _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
 ["Aadhaar in a Box? Legitimizing digital identity in times of crisis"](https://doi.org/10.24908/ss.v19i1.14547), *Surveillance & Society* 19(1): 104–108, 2021 [ISSN 1477-7487]
 
-["Connecting with Confidence: Managing digital risks to refugee connectivity"](https://www.unhcr.org/innovation/wp-content/uploads/2021/03/CWC-Managing-Digital-Risks-To-Refugee-Connectivity-Report.pdf), with T. Bouffet and J. Warnes, UN Refugee Agency: 1–71 2021
+["Connecting with Confidence: Managing digital risks to refugee connectivity"](https://www.unhcr.org/innovation/wp-content/uploads/2021/03/CWC-Managing-Digital-Risks-To-Refugee-Connectivity-Report.pdf), with T. Bouffet and J. Warnes, UN Refugee Agency: 1–71, 2021
 
 ["Exclusion and Inclusion in Identification: Regulation, displacement, and data justice"](https://doi.org/10.1080/02681102.2020.1811943), with L. Taylor, *Information Technology for Development* 27(1): 50–66, 2021 [ISSN 1554-0170]
 
-["What does the COVID-19 response mean for global data justice?"](https://ia801504.us.archive.org/25/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press: 8–17, 2020 [ISBN-13: 978-1-913824-00-6]
+["Introduction: What does the COVID-19 response mean for global data justice?"](https://ia801504.us.archive.org/25/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press: 8–17, 2020 [ISBN-13: 978-1-913824-00-6]
 
 ["Desplazados y Desconectados: South America"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, *Digital Access, Inclusion and Participation*, UN Refugee Agency: 1–42, 2020
 
