@@ -3,7 +3,8 @@ layout: default
 title: Aaron K. Martin, PhD
 ---
 
-![Aaron K. Martin, PhD][images/aaron.jpg]
+![Aaron K. Martin, PhD](images/aaron.jpg)
+
 
 I am a technology policy expert specializing in cybersecurity, privacy, and digital identity. In 2018 I joined the Tilburg Law School in the Netherlands as a Postdoctoral Research Fellow in Data Governance on the [Global Data Justice project](https://globaldatajustice.org).
 
