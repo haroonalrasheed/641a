@@ -11,3 +11,7 @@ In 2020 I co-edited an open-access book on data justice and COVID-19 published b
 Prior to joining Tilburg Law School, I was a Vice President of Cyber Policy at JPMorgan Chase in New York from 2015-2018. Before that I worked in tech policy roles at the Organisation for Economic Cooperation and Development (OECD), European Commission's Joint Research Centre, Vodafone Group, and [elsewhere](http://sixfouronea.net/professional-history/). I have lectured internationally including at the London School of Economics and Political Science (LSE), Cornell Tech, NYU Stern, and Fundação Getulio Vargas.
 
 I am consultant on connectivity topics to the UN Refugee Agency (UNHCR). I have a PhD in Information Systems and Innovation from the LSE, where I studied biometrics from 2006-2011.
+
+<p align="center">
+  <img src="images/aaron_martin.jpg">
+</p>
