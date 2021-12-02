@@ -42,7 +42,7 @@ _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
 ["The Rise of African SIM Registration: The emerging dynamics of regulatory change"](http://dx.doi.org/10.5210/fm.v19i2.4351), with K. P. Donovan, *First Monday* 19(2-3), 2014 [ISSN 1396-0466]
 
-["Open Government and Citizen Identities: Promise, peril, and policy"](https://prd-idrc.azureedge.net/sites/default/files/openebooks/541-1/index.html#ch09), with C. M. Bonina, in [*Open Development: Networked Innovations in International Development*](http://www.idrc.ca/EN/Resources/Publications/Pages/IDRCBookDetails.aspx?PublicationID=1274), edited by M. L. Smith & K. M. A. Reilly, MIT Press: 223–247, 2014 [ISBN-13: 978-0-262-52541-1]
+["Open Government and Citizen Identities: Promise, peril, and policy"](https://prd-idrc.azureedge.net/sites/default/files/openebooks/541-1/index.html#ch09), with C. M. Bonina, in [*Open Development: Networked Innovations in International Development*](https://idl-bnc-idrc.dspacedirect.org/handle/10625/52348), edited by M. L. Smith & K. M. A. Reilly, MIT Press: 223–247, 2014 [ISBN-13: 978-0-262-52541-1]
 
 Book review of ["Innovation, Dual Use, and Security: Managing the risks of emerging biological and chemical technologies"](http://dx.doi.org/10.1093/scipol/sct019), *Science & Public Policy* 40(6): 824–826, 2013 [ISSN 1471-5430]
     
