@@ -10,8 +10,6 @@ _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
 ["Between Surveillance and Recognition: Rethinking digital identity in aid"](https://doi.org/10.1177/20539517211006744), with K. Weitzberg, M. Cheesman & E. Schoemaker, *Big Data & Society* (January–June): 1–7, 2021 [ISSN 2053-9517]
 
-<sup>`***Also available in French: « Entre surveillance et identification : Repenser l'identité numérique dans l'humanitaire », to appear in an edited volume (Berger-Levrault)***`</sup>
-
 ["Aadhaar in a Box? Legitimizing digital identity in times of crisis"](https://doi.org/10.24908/ss.v19i1.14547), *Surveillance & Society* 19(1): 104–108, 2021 [ISSN 1477-7487]
 
 ["Connecting with Confidence: Managing digital risks to refugee connectivity"](https://www.unhcr.org/innovation/wp-content/uploads/2021/03/CWC-Managing-Digital-Risks-To-Refugee-Connectivity-Report.pdf), with T. Bouffet and J. Warnes, UN Refugee Agency: 1–71, 2021
