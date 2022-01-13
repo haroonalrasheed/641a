@@ -6,7 +6,7 @@ title: Select Publications
 ## Select Publications
 _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
-"(Re)making Data Markets: An exploration of the regulatory challenges", with L. Taylor, H. Mukiri-Smith, T. Petročnik & L. Savolainen, _Law, Innovation and Technology_ 14(2), (2022) [ISSN 1757-9961]
+"(Re)making Data Markets: An exploration of the regulatory challenges", with L. Taylor, H. Mukiri-Smith, T. Petročnik & L. Savolainen, _Law, Innovation and Technology_ 14(2): 1-32, 2022 [ISSN 1757-9961]
 
 ["Between Surveillance and Recognition: Rethinking digital identity in aid"](https://doi.org/10.1177/20539517211006744), with K. Weitzberg, M. Cheesman & E. Schoemaker, *Big Data & Society* (January–June): 1–7, 2021 [ISSN 2053-9517]
 
