@@ -2,7 +2,7 @@
 layout: default
 title: Aaron K. Martin, PhD
 ---
-I am a tech policy expert specializing in cybersecurity, privacy, and digital identity. In 2022 I joined the Faculty of Law at Maastricht University to lead a [new initiative on humanitarian action](https://www.maastrichtuniversity.nl/ecpc/humanitarian-action-programme) based at the European Centre on Privacy and Cybersecurity. I am also a member of the [Global Data Justice project](https://globaldatajustice.org) at the Tilburg Institute for Law, Technology, and Society, where I have been a postdoctoral researcher since 2018.
+I am a technology policy expert specializing in cybersecurity, privacy, and digital identity. In 2022 I joined the Faculty of Law at Maastricht University to lead a [new initiative on humanitarian action](https://www.maastrichtuniversity.nl/ecpc/humanitarian-action-programme) based at the European Centre on Privacy and Cybersecurity. I am also a member of the [Global Data Justice project](https://globaldatajustice.org) at the Tilburg Institute for Law, Technology, and Society, where I have been a Postdoctoral Research Fellow since 2018.
 
 My research interests include data governance in development and humanitarian contexts, cyber policy, critical infrastructure protection, surveillance, biometrics, technology regulation, and cybersecurity in the financial services sector. I am particularly interested in exploring these topics across the Global South.
 
