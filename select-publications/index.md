@@ -6,7 +6,7 @@ title: Select Publications
 ## Select Publications
 _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
-"Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance", with J. Lopez Solano, S. de Souza & L. Taylor , _Report for the European Parliment's Panel for the Future of Science and Technology (STOA)_, 2022
+"Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance", with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliment's Panel for the Future of Science and Technology (STOA)_, 2022
 
 "Digital Disruption or Crisis Capitalism? Technology, power and the pandemic", with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_, 2022
 
