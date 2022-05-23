@@ -8,7 +8,7 @@ _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
 "Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance", with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliment's Panel for the Future of Science and Technology (STOA)_, 2022
 
-"Digital Disruption or Crisis Capitalism? Technology, power and the pandemic", with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_, 2022
+["Digital Disruption or Crisis Capitalism? Technology, power and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_, 2022
 
 ["Digitization and Sovereignty in Humanitarian Space: Technologies, territories, and tensions"](https://doi.org/10.1080/14650045.2022.2047468), with G. Sharma, S. de Souza, L. Taylor, B. van Eerd, S. McDonald, M. Marelli, M. Cheesman, S. Scheel & H. Dijstelbloem, _Geopolitics_: 1-36, 2022 [ISSN 1557-3028]
 
