@@ -10,7 +10,7 @@ _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
 "Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance", with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliment's Panel for the Future of Science and Technology (STOA)_, 2022
 
-["Digital Disruption or Crisis Capitalism? Technology, power and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_, 2022
+["Digital Disruption or Crisis Capitalism? Technology, power and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_, 2022 <<featured in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00507-2)>>
 
 ["Digitization and Sovereignty in Humanitarian Space: Technologies, territories, and tensions"](https://doi.org/10.1080/14650045.2022.2047468), with G. Sharma, S. de Souza, L. Taylor, B. van Eerd, S. McDonald, M. Marelli, M. Cheesman, S. Scheel & H. Dijstelbloem, _Geopolitics_: 1–36, 2022 [ISSN 1557-3028]
 
@@ -46,7 +46,7 @@ _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
 ["From Surveillance-by-Design to Privacy-by-Design: Evolving identity policy in the UK"](http://personal.lse.ac.uk/whitley/allpubs/hos2014.pdf), with E. A. Whitley & G. Hosein, in [*Histories of State Surveillance in Europe and Beyond*](https://www.routledge.com/Histories-of-State-Surveillance-in-Europe-and-Beyond/Boersma-van-Brakel-Fonio-Wagenaar/p/book/9780415829465), edited by K. Boersma, R. van Brakel, C. Fonio & P. Wagenaar, Routledge: 205–219, 2014 [ISBN-13: 978-0-415-82946-5]
 
-["The Rise of African SIM Registration: The emerging dynamics of regulatory change"](http://dx.doi.org/10.5210/fm.v19i2.4351), with K. P. Donovan, *First Monday* 19(2-3), 2014 [ISSN 1396-0466]
+["The Rise of African SIM Registration: The emerging dynamics of regulatory change"](http://dx.doi.org/10.5210/fm.v19i2.4351), with K. P. Donovan, *First Monday* 19(2-3), 2014 [ISSN 1396-0466] <<featured in [The Economist](https://www.economist.com/international/2013/05/04/called-up)>>
 
 ["Open Government and Citizen Identities: Promise, peril, and policy"](https://prd-idrc.azureedge.net/sites/default/files/openebooks/541-1/index.html#ch09), with C. M. Bonina, in [*Open Development: Networked Innovations in International Development*](https://idl-bnc-idrc.dspacedirect.org/handle/10625/52348), edited by M. L. Smith & K. M. A. Reilly, MIT Press: 223–247, 2014 [ISBN-13: 978-0-262-52541-1]
 
