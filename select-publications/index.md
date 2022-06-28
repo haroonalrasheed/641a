@@ -6,13 +6,15 @@ title: Select Publications
 ## Select Publications
 _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
+"Entre surveillance et identification : repenser l’identité numérique dans l’humanitaire", with K. Weitzberg, M. Cheesman & E. Schoemaker, in [_L’État digital_](https://www.librairie-gallimard.com/livre/9782701322070-l-etat-digital-numerisation-de-l-administration-publique-et-administration-publique-du-numerique-gilles-j-guglielmi-luca-belli-collectif/), edited by G. J. Guglielmi & L. Belli, Berger-Levrault: 147–157, 2022 [ISBN-13: 978-2-701322-07-0]
+
 "Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance", with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliment's Panel for the Future of Science and Technology (STOA)_, 2022
 
 ["Digital Disruption or Crisis Capitalism? Technology, power and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_, 2022
 
-["Digitization and Sovereignty in Humanitarian Space: Technologies, territories, and tensions"](https://doi.org/10.1080/14650045.2022.2047468), with G. Sharma, S. de Souza, L. Taylor, B. van Eerd, S. McDonald, M. Marelli, M. Cheesman, S. Scheel & H. Dijstelbloem, _Geopolitics_: 1-36, 2022 [ISSN 1557-3028]
+["Digitization and Sovereignty in Humanitarian Space: Technologies, territories, and tensions"](https://doi.org/10.1080/14650045.2022.2047468), with G. Sharma, S. de Souza, L. Taylor, B. van Eerd, S. McDonald, M. Marelli, M. Cheesman, S. Scheel & H. Dijstelbloem, _Geopolitics_: 1–36, 2022 [ISSN 1557-3028]
 
-"(Re)making Data Markets: An exploration of the regulatory challenges", with L. Taylor, H. Mukiri-Smith, T. Petročnik & L. Savolainen, _Law, Innovation and Technology_ 14(2): 1-32, 2022 [ISSN 1757-9961]
+"(Re)making Data Markets: An exploration of the regulatory challenges", with L. Taylor, H. Mukiri-Smith, T. Petročnik & L. Savolainen, _Law, Innovation and Technology_ 14(2): 1–32, 2022 [ISSN 1757-9961]
 
 ["Between Surveillance and Recognition: Rethinking digital identity in aid"](https://doi.org/10.1177/20539517211006744), with K. Weitzberg, M. Cheesman & E. Schoemaker, *Big Data & Society* (January–June): 1–7, 2021 [ISSN 2053-9517]
 
