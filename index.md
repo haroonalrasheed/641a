@@ -10,7 +10,7 @@ My latest publications include a [collaborative forum](https://doi.org/10.1080/1
 
 Prior to returning to academia, I was a Vice President of Cyber Policy at JPMorgan Chase in New York from 2015-2018. Before that I worked in tech policy roles at the Organisation for Economic Cooperation and Development (OECD), European Commission's Joint Research Centre, Vodafone Group, and [elsewhere](http://sixfouronea.net/professional-history/). I have lectured internationally including at the London School of Economics and Political Science (LSE), Cornell Tech, NYU Stern, and Fundação Getulio Vargas.
 
-In recent years I have consulted for the UN Refugee Agency (UNHCR) on digital connectivity topics, advised the GSMA on its data ethics strategy, worked with the World Bank on data protection in foundational identity programs, and led an international project on data protection regulatory convergence for the European Commission. I have a PhD in Information Systems and Innovation from the LSE, where I studied biometrics.
+In recent years I have consulted for the UN Refugee Agency (UNHCR) on digital connectivity topics, advised the GSMA Mobile for Development initiative on its data ethics strategy, worked with the World Bank on data governance in foundational identity programs, and led an international project on data protection regulatory convergence for the European Commission (DG JUST). I have a PhD in Information Systems and Innovation from the LSE, where I studied biometrics.
 
 <p align="center">
   <img src="images/aaron_martin.jpg">
