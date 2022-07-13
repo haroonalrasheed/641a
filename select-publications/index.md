@@ -74,4 +74,4 @@ Book review of ["Innovation, Dual Use, and Security: Managing the risks of emerg
 
 Book review of ["Wiring Up The Big Brother Machine... And Fighting It"](https://doi.org/10.24908/ss.v8i1.3477), *Surveillance & Society* 6(4): 416–417, 2009 [ISSN 1477-7487]
   
-["Understanding Resistance to Digital Surveillance: Towards a multi-disciplinary, multi-actor framework"](https://doi.org/10.24908/ss.v6i3.3282), with R. E. van Brakel & D. J. Bernhard, *Surveillance & Society* 6(3): 213–232, 2009 [ISSN 1477-7487]
+["Understanding Resistance to Digital Surveillance: Towards a multi-disciplinary, multi-actor framework"](https://doi.org/10.24908/ss.v6i3.3282), with R. E. van Brakel & D. J. Bernhard, *Surveillance & Society* 6(3): 213–232, 2009 [ISSN 1477-7487] <<Awarded Surveillance Studies Network best paper prize>>
