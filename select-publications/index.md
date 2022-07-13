@@ -16,7 +16,7 @@ _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
 "(Re)making Data Markets: An exploration of the regulatory challenges", with L. Taylor, H. Mukiri-Smith, T. Petročnik & L. Savolainen, _Law, Innovation and Technology_ 14(2): 1–32, 2022 [ISSN 1757-9961]
 
-["Between Surveillance and Recognition: Rethinking digital identity in aid"](https://doi.org/10.1177/20539517211006744), with K. Weitzberg, M. Cheesman & E. Schoemaker, *Big Data & Society* (January–June): 1–7, 2021 [ISSN 2053-9517] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/yyHXtMKvZh)>>
+["Between Surveillance and Recognition: Rethinking digital identity in aid"](https://doi.org/10.1177/20539517211006744), with K. Weitzberg, M. Cheesman & E. Schoemaker, *Big Data & Society* (January–June): 1–7, 2021 [ISSN 2053-9517] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/yyHXtMKvZh) and [Biometric Update](https://www.biometricupdate.com/202104/balancing-the-power-over-and-power-to-when-it-comes-to-biometrics-and-humanitarian-aid)>>
 
 ["Aadhaar in a Box? Legitimizing digital identity in times of crisis"](https://doi.org/10.24908/ss.v19i1.14547), *Surveillance & Society* 19(1): 104–108, 2021 [ISSN 1477-7487] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/4vgIorQZaY)>>
 
