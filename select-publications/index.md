@@ -8,7 +8,7 @@ _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
 "Entre surveillance et identification : repenser l’identité numérique dans l’humanitaire", with K. Weitzberg, M. Cheesman & E. Schoemaker, in [_L’État digital_](https://www.librairie-gallimard.com/livre/9782701322070-l-etat-digital-numerisation-de-l-administration-publique-et-administration-publique-du-numerique-gilles-j-guglielmi-luca-belli-collectif/), edited by G. J. Guglielmi & L. Belli, Berger-Levrault: 147–157, 2022 [ISBN-13: 978-2-701322-07-0]
 
-["Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance"](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533), with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliament's Panel for the Future of Science and Technology_, 2022 [ISBN: 978-9-284696-23-9]
+["Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance"](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533), with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliament's Panel for the Future of Science and Technology_, 2022 [ISBN: 978-9-284696-23-9] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ql-TieDcIL)>>
 
 ["Digital Disruption or Crisis Capitalism? Technology, power and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_, 2022 <<featured in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00507-2)>>
 
