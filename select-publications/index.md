@@ -6,13 +6,15 @@ title: Select Publications
 ## Select Publications
 _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
+"Digital Identity and Inclusion: Technological mediations of ideology, development, and rights", with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_, forthcoming [ISSN 1526-0054]
+
 ["(Re)making Data Markets: An exploration of the regulatory challenges"](https://doi.org/10.1080/17579961.2022.2113671), with L. Taylor, H. Mukiri-Smith, T. Petročnik & L. Savolainen, _Law, Innovation and Technology_ 14(2): 1–40, 2022 [ISSN 1757-9961]
 
 "Entre surveillance et identification : repenser l’identité numérique dans l’humanitaire", with K. Weitzberg, M. Cheesman & E. Schoemaker, in [_L’État digital_](https://www.librairie-gallimard.com/livre/9782701322070-l-etat-digital-numerisation-de-l-administration-publique-et-administration-publique-du-numerique-gilles-j-guglielmi-luca-belli-collectif/), edited by L. Belli & G. J. Guglielmi, Berger-Levrault: 145–156, 2022 [ISBN-13: 978-2-701322-07-0]
 
 ["Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance"](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533), with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliament's Panel for the Future of Science and Technology_, 2022 [ISBN-13: 978-9-284696-23-9] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ql-TieDcIL)>>
 
-["Digital Disruption or Crisis Capitalism? Technology, power and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_, 2022 <<featured in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00507-2)>>
+["Digital Disruption or Crisis Capitalism? Technology, power, and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_, 2022 <<featured in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00507-2)>>
 
 ["Digitization and Sovereignty in Humanitarian Space: Technologies, territories, and tensions"](https://doi.org/10.1080/14650045.2022.2047468), with G. Sharma, S. de Souza, L. Taylor, B. van Eerd, S. McDonald, M. Marelli, M. Cheesman, S. Scheel & H. Dijstelbloem, _Geopolitics_: 1–36, 2022 [ISSN 1557-3028]
 
