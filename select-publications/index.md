@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Select Publications
+title: Selected Publications
 ---
 
-## Select Publications
+## Selected Publications
 _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
 "Digital Identity and Inclusion: Technological mediations of ideology, development, and rights", with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_, forthcoming [ISSN 1526-0054]
