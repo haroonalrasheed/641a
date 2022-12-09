@@ -5,7 +5,7 @@ title: Professional History
 
 ## Professional History
 
-- Vice President, <i>Global Cybersecurity</i> at <a href="https://www.jpmorganchase.com/" target="_blank"> JPMorgan Chase</a>, 2015-2018
+- Vice President, Global Cybersecurity at <a href="https://www.jpmorganchase.com/" target="_blank"> JPMorgan Chase</a>, 2015-2018
 
 - Guest Speaker in <i>Cybersecurity Law</i> at the <a href="http://www.pli.edu/" target="_blank">Practising Law Institute</a>, 2017
 
