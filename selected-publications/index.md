@@ -8,6 +8,8 @@ _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
 "Digital Identity and Inclusion: Technological mediations of ideology, development, and rights", with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_, 24(1), 2023 [ISSN 1526-0054]
 
+"Connectivity as Aid", with J. Warnes, in _Handbook on Data Protection in Humanitarian Action_, edited by M. Marelli, Cambridge University Press, 2023
+
 ["(Re)making Data Markets: An exploration of the regulatory challenges"](https://doi.org/10.1080/17579961.2022.2113671), with L. Taylor, H. Mukiri-Smith, T. Petročnik & L. Savolainen, _Law, Innovation and Technology_ 14(2): 1–40, 2022 [ISSN 1757-9961]
 
 "Entre surveillance et identification : repenser l’identité numérique dans l’humanitaire", with K. Weitzberg, M. Cheesman & E. Schoemaker, in [_L’État digital_](https://www.librairie-gallimard.com/livre/9782701322070-l-etat-digital-numerisation-de-l-administration-publique-et-administration-publique-du-numerique-gilles-j-guglielmi-luca-belli-collectif/), edited by L. Belli & G. J. Guglielmi, Berger-Levrault: 145–156, 2022 [ISBN-13: 978-2-701322-07-0]
