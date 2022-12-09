@@ -6,7 +6,7 @@ title: Selected Publications
 ## Selected Publications
 _[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
 
-"Digital Identity and Inclusion: Technological mediations of ideology, development, and rights", with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_, forthcoming [ISSN 1526-0054]
+"Digital Identity and Inclusion: Technological mediations of ideology, development, and rights", with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_, 24(1), 2023 [ISSN 1526-0054]
 
 ["(Re)making Data Markets: An exploration of the regulatory challenges"](https://doi.org/10.1080/17579961.2022.2113671), with L. Taylor, H. Mukiri-Smith, T. Petročnik & L. Savolainen, _Law, Innovation and Technology_ 14(2): 1–40, 2022 [ISSN 1757-9961]
 
