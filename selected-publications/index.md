@@ -4,7 +4,7 @@ title: Selected Publications
 ---
 
 ## Selected Publications
-_[Contact me](mailto:a.k.martin@uvt.nl) for copies of articles/chapters_
+_[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
 "Aidwashing Surveillance: Critiquing the corporate exploitation of humanitarian crises", _Surveillance & Society_, 21(1), 2023
 
