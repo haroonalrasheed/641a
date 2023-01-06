@@ -6,7 +6,7 @@ title: Selected Publications
 ## Selected Publications
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
-"Aidwashing Surveillance: Critiquing the corporate exploitation of humanitarian crises", _Surveillance & Society_, 21(1), 2023
+"Aidwashing Surveillance: Critiquing the corporate exploitation of humanitarian crises", _Surveillance & Society_, 21(1), 2023 [ISSN 1477-7487]
 
 "Digital Identity and Inclusion: Technological mediations of ideology, development, and rights", with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_, 24(1), 2023 [ISSN 1526-0054]
 
