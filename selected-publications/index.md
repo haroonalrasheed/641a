@@ -6,6 +6,8 @@ title: Selected Publications
 ## Selected Publications
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
+"Digital Identity and Inclusion", with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_, 24(1): 36–45, 2023 [ISSN 1526-0054]
+
 ["Aidwashing Surveillance: Critiquing the corporate exploitation of humanitarian crises"](https://doi.org/10.24908/ss.v21i1.16266), _Surveillance & Society_, 21(1): 96–102, 2023 [ISSN 1477-7487]
 
 ["(Re)making Data Markets: An exploration of the regulatory challenges"](https://doi.org/10.1080/17579961.2022.2113671), with L. Taylor, H. Mukiri-Smith, T. Petročnik & L. Savolainen, _Law, Innovation and Technology_ 14(2): 1–40, 2022 [ISSN 1757-9961]
