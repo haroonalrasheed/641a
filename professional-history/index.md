@@ -5,11 +5,22 @@ title: Professional History
 
 ## Professional History
 
+
+
+- Consultant to the [UN Refugee Agency](https://www.unhcr.org/)'s Innovation Service, 2018-2021
+- Lecturer on _Data Privacy and Ethics_ for NYU Stern's [Master of Science in Business Analytics](https://www.stern.nyu.edu/programs-admissions/ms-business-analytics), 2020
+
+
+- Consultant to the [Digital Future Society](https://digitalfuturesociety.com/), 2020
+- Consultant to the World Bank, 2019-2020
+
+- Consultant to the GSMA's [Mobile for Development](https://www.gsma.com/mobilefordevelopment/) initiative, 2019
+
 - Vice President, Global Cybersecurity at <a href="https://www.jpmorganchase.com/" target="_blank"> JPMorgan Chase</a>, 2015-2018
 
 - Guest Speaker in <i>Cybersecurity Law</i> at the <a href="http://www.pli.edu/" target="_blank">Practising Law Institute</a>, 2017
 
-- Lecturer in <i>Controversies in Connective Media</i>, an Information Policy course at <a href="http://tech.cornell.edu/" target="_blank">Cornell Tech</a>, 2016
+- Lecturer on <i>Controversies in Connective Media</i>, an Information Policy course at <a href="http://tech.cornell.edu/" target="_blank">Cornell Tech</a>, 2016
 
 - Junior Policy Analyst at the <a href="http://oecd.org/" target="_blank">Organisation for Economic Co-operation and Development</a>, 2013-2015
 
@@ -25,9 +36,9 @@ title: Professional History
 
 - Consultant to the <a href="http://www.idrc.ca" target="_blank">International Development Research Centre</a>, 2011
 
-- Lecturer in <i>Sociology of Information Systems</i> for the <a href="http://www.londoninternational.ac.uk" target="_blank">University of London External Programme</a>, 2009-2010
+- Lecturer on <i>Sociology of Information Systems</i> for the <a href="http://www.londoninternational.ac.uk" target="_blank">University of London External Programme</a>, 2009-2010
 
-- Lecturer in <i>Ethics and Politics of Information Systems</i> for the <a href="http://www.londoninternational.ac.uk" target="_blank">University of London External Programme</a>, 2009-2010
+- Lecturer on <i>Ethics and Politics of Information Systems</i> for the <a href="http://www.londoninternational.ac.uk" target="_blank">University of London External Programme</a>, 2009-2010
 
 - Contractor for Emerging Technologies at <a href="http://www.itv.com" target="_blank">ITV</a>, 2008
 
