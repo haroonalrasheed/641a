@@ -6,9 +6,11 @@ title: Selected Publications
 ## Selected Publications
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
-["Digital Identity and Inclusion: Tracing technological transitions"](https://sixfouronea.net/GJIA_2023.pdf), with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_, 24(1): 36–45, 2023 [ISSN 1526-0054]
+["Digital Identity and Inclusion: Tracing technological transitions"](https://sixfouronea.net/GJIA_2023.pdf), with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_ 24(1): 36–45, 2023 [ISSN 1526-0054]
 
-["Aidwashing Surveillance: Critiquing the corporate exploitation of humanitarian crises"](https://doi.org/10.24908/ss.v21i1.16266), _Surveillance & Society_, 21(1): 96–102, 2023 [ISSN 1477-7487]
+["Aidwashing Surveillance: Critiquing the corporate exploitation of humanitarian crises"](https://doi.org/10.24908/ss.v21i1.16266), _Surveillance & Society_ 21(1): 96–102, 2023 [ISSN 1477-7487]
+
+["Digitization and Sovereignty in Humanitarian Space: Technologies, territories, and tensions"](https://doi.org/10.1080/14650045.2022.2047468), with G. Sharma, S. de Souza, L. Taylor, B. van Eerd, S. McDonald, M. Marelli, M. Cheesman, S. Scheel & H. Dijstelbloem, _Geopolitics_ 28(3): 1362–1397, 2023 [ISSN 1557-3028]
 
 ["(Re)making Data Markets: An exploration of the regulatory challenges"](https://doi.org/10.1080/17579961.2022.2113671), with L. Taylor, H. Mukiri-Smith, T. Petročnik & L. Savolainen, _Law, Innovation and Technology_ 14(2): 1–40, 2022 [ISSN 1757-9961]
 
@@ -17,8 +19,6 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 ["Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance"](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533), with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliament's Panel for the Future of Science and Technology_, 2022 [ISBN-13: 978-9-284696-23-9] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ql-TieDcIL)>>
 
 ["Digital Disruption or Crisis Capitalism? Technology, power, and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_, 2022 <<featured in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00507-2)>>
-
-["Digitization and Sovereignty in Humanitarian Space: Technologies, territories, and tensions"](https://doi.org/10.1080/14650045.2022.2047468), with G. Sharma, S. de Souza, L. Taylor, B. van Eerd, S. McDonald, M. Marelli, M. Cheesman, S. Scheel & H. Dijstelbloem, _Geopolitics_: 1–36, 2022 [ISSN 1557-3028]
 
 ["Between Surveillance and Recognition: Rethinking digital identity in aid"](https://doi.org/10.1177/20539517211006744), with K. Weitzberg, M. Cheesman & E. Schoemaker, *Big Data & Society* (January–June): 1–7, 2021 [ISSN 2053-9517] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/yyHXtMKvZh) and [Biometric Update](https://www.biometricupdate.com/202104/balancing-the-power-over-and-power-to-when-it-comes-to-biometrics-and-humanitarian-aid)>>
 
