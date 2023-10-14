@@ -2,7 +2,7 @@
 layout: default
 title: Aaron K. Martin, PhD
 ---
-I am a tech policy expert specializing in cybersecurity, privacy, and digital identity. This fall I joined the University of Virginia as an Assistant Professor of Media Studies and Data Science (joint appointment). Prior to joining UVA, I was based at Maastricht University's European Centre on Privacy and Cybersecurity. From 2018-2023, I was a Postdoctoral Research Fellow on the ERC-funded Global Data Justice project at the Tilburg Institute for Law, Technology, and Society in the Netherlands.
+I am a tech policy expert specializing in cybersecurity, privacy, and digital identity. I'm also an **Assistant Professor** of Media Studies and Data Science (joint appointment) at the **University of Virginia** (UVA). Prior to joining UVA, I was based at Maastricht University's European Centre on Privacy and Cybersecurity; from 2018-2023, I was a Postdoctoral Research Fellow on the European Research Council-funded Global Data Justice project at the Tilburg Institute for Law, Technology, and Society in the Netherlands.
 
 My research interests include data governance in development and humanitarian contexts, cyber policy, critical infrastructure protection, surveillance, biometrics, tech regulation, and cybersecurity in the financial services sector. I am particularly interested in exploring these topics across the Global South.
 
