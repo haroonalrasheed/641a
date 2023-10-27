@@ -6,7 +6,7 @@ title: Selected Publications
 ## Selected Publications
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
-["Why are sector transgressions so hard to govern? Reflections from Europe’s pandemic experience"](https://doi.org/10.1080/1369118X.2023.2264919), with L. Taylor, S. de Souza & J. Lopez Solano, _Information, Communication & Society_ 2023 [ISSN 1468-4462]
+["Why are sector transgressions so hard to govern? Reflections from Europe’s pandemic experience"](https://doi.org/10.1080/1369118X.2023.2264919), with L. Taylor, S. de Souza & J. Lopez Solano, _Information, Communication & Society_, 2023 [ISSN 1468-4462]
 
 ["Digital Identity and Inclusion: Tracing technological transitions"](https://sixfouronea.net/GJIA_2023.pdf), with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_ 24(1): 36–45, 2023 [ISSN 1526-0054]
 
