@@ -10,7 +10,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 ["Why are sector transgressions so hard to govern? Reflections from Europe’s pandemic experience"](https://doi.org/10.1080/1369118X.2023.2264919), with L. Taylor, S. de Souza & J. Lopez Solano, _Information, Communication & Society_, 2023 [ISSN 1468-4462]
 
-["Digital Identity and Inclusion: Tracing technological transitions"](https://sixfouronea.net/GJIA_2023.pdf), with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_ 24(1): 36–45, 2023 [ISSN 1526-0054]
+["Digital Identity and Inclusion: Tracing technological transitions"](https://doi.org/10.1353/gia.2023.a897699), with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_ 24(1): 36–45, 2023 [ISSN 1526-0054]
 
 ["Aidwashing Surveillance: Critiquing the corporate exploitation of humanitarian crises"](https://doi.org/10.24908/ss.v21i1.16266), _Surveillance & Society_ 21(1): 96–102, 2023 [ISSN 1477-7487]
 
