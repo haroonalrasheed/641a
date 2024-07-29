@@ -7,7 +7,7 @@ title: Selected Publications
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
 “How Technology and Law Interact to Combat Financial Crime”, with S. De Conca, E. Kosta & M. Roussos, in _Law of Public-Private Cooperation Against Financial Crime:
-Developing information-sharing on money laundering and terrorism financing_, edited by B. Vogel, E. Kosta & M. Lasalle., Intersentia, 2024 [ISBN-13: 978-1-839-70394-2]
+Developing information-sharing on money laundering and terrorism financing_, edited by B. Vogel, E. Kosta & M. Lasalle., Intersentia: 483-532, 2024 [ISBN-13: 978-1-839-70394-2]
 
 "Connectivity as Aid", with J. Warnes, in [_Handbook on Data Protection in Humanitarian Action_](https://www.cambridge.org/core/books/handbook-on-data-protection-in-humanitarian-action/025CE3DFD1FAD908DD1412C20E49F955) (3rd ed.), edited by M. Marelli, Cambridge University Press: 275–287, 2024 [ISBN-13: 978-1-009-41463-0]
 
