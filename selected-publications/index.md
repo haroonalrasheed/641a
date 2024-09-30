@@ -6,6 +6,8 @@ title: Selected Publications
 ## Selected Publications
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
+"Transgressive Tech", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming. 
+
 “How Technology and Law Interact to Combat Financial Crime”, with S. De Conca, E. Kosta & M. Roussos, in _Law of Public-Private Cooperation Against Financial Crime:
 Developing information-sharing on money laundering and terrorism financing_, edited by B. Vogel, E. Kosta & M. Lasalle, Intersentia: 483-532, 2024 [ISBN-13: 978-1-839-70394-2]
 
@@ -36,6 +38,8 @@ Developing information-sharing on money laundering and terrorism financing_, edi
 ["Exclusion and Inclusion in Identification: Regulation, displacement, and data justice"](https://doi.org/10.1080/02681102.2020.1811943), with L. Taylor, *Information Technology for Development* 27(1): 50–66, 2021 [ISSN 1554-0170] <<featured in [Biometric Update](https://www.biometricupdate.com/202009/biometrics-collection-from-refugees-and-vulnerable-people-questioned-by-analysts)>>
 
 ["Introduction: What does the COVID-19 response mean for global data justice?"](https://ia801504.us.archive.org/25/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press: 8–17, 2020 [ISBN-13: 978-1-913824-00-6] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ig5CJ6qoXZ)>>
+
+"[Data Justice and COVID-19: Global Perspectives](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020. 
 
 ["Desplazados y Desconectados: South America"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, *Digital Access, Inclusion and Participation*, UN Refugee Agency: 1–42, 2020
 
