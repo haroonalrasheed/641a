@@ -6,7 +6,7 @@ title: Selected Publications
 ## Selected Publications
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
-"Transgressive Tech", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming. 
+"Transgressive Tech", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
 
 “How Technology and Law Interact to Combat Financial Crime”, with S. De Conca, E. Kosta & M. Roussos, in _Law of Public-Private Cooperation Against Financial Crime:
 Developing information-sharing on money laundering and terrorism financing_, edited by B. Vogel, E. Kosta & M. Lasalle, Intersentia: 483-532, 2024 [ISBN-13: 978-1-839-70394-2]
