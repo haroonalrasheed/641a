@@ -13,7 +13,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 “How Technology and Law Interact to Combat Financial Crime”, with S. De Conca, E. Kosta & M. Roussos, in _Law of Public-Private Cooperation Against Financial Crime:
 Developing information-sharing on money laundering and terrorism financing_, edited by B. Vogel, E. Kosta & M. Lasalle, Intersentia: 483-532, 2024 [ISBN-13: 978-1-839-70394-2]
 
-["Connectivity as Aid"]([https://www.cambridge.org/core/books/handbook-on-data-protection-in-humanitarian-action/connectivity-as-aid/53154B65F025BA904CAC05B7454DE579](https://doi.org/10.1017/9781009414630.021)), with J. Warnes, in [_Handbook on Data Protection in Humanitarian Action_](https://www.cambridge.org/core/books/handbook-on-data-protection-in-humanitarian-action/025CE3DFD1FAD908DD1412C20E49F955) (3rd ed.), edited by M. Marelli, Cambridge University Press: 274–287, 2024 [ISBN-13: 978-1-009-41463-0]
+["Connectivity as Aid"](https://doi.org/10.1017/9781009414630.021), with J. Warnes, in [_Handbook on Data Protection in Humanitarian Action_](https://www.cambridge.org/core/books/handbook-on-data-protection-in-humanitarian-action/025CE3DFD1FAD908DD1412C20E49F955) (3rd ed.), edited by M. Marelli, Cambridge University Press: 274–287, 2024 [ISBN-13: 978-1-009-41463-0]
 
 ["Why are sector transgressions so hard to govern? Reflections from Europe’s pandemic experience"](https://doi.org/10.1080/1369118X.2023.2264919), with L. Taylor, S. de Souza & J. Lopez Solano, _Information, Communication & Society_, 2023 [ISSN 1468-4462]
 
