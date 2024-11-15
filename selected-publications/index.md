@@ -6,7 +6,7 @@ title: Selected Publications
 ## Selected Publications
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
-"Transgressive Tech", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
+"_Transgressive Tech_", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
 
 "Governing AI Means Governing Data: (Re)setting the agenda for data justice", L. Taylor, S. de Souza, & J. López-Solano. _Dialogues on Digital Society_, forthcoming
 
@@ -41,7 +41,7 @@ Developing information-sharing on money laundering and terrorism financing_, edi
 
 ["Introduction: What does the COVID-19 response mean for global data justice?"](https://ia801504.us.archive.org/25/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press: 8–17, 2020 [ISBN-13: 978-1-913824-00-6] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ig5CJ6qoXZ)>>
 
-"[Data Justice and COVID-19: Global Perspectives](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020. 
+"[_Data Justice and COVID-19: Global Perspectives_](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020. 
 
 ["Desplazados y Desconectados: South America"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, *Digital Access, Inclusion and Participation*, UN Refugee Agency: 1–42, 2020
 
