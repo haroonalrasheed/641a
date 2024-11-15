@@ -8,6 +8,8 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 "Transgressive Tech", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
 
+"Governing AI Means Governing Data: (Re)setting the agenda for data justice", L. Taylor, S. de Souza, & J. López-Solano. _Dialogues on Digital Society_, forthcoming
+
 “How Technology and Law Interact to Combat Financial Crime”, with S. De Conca, E. Kosta & M. Roussos, in _Law of Public-Private Cooperation Against Financial Crime:
 Developing information-sharing on money laundering and terrorism financing_, edited by B. Vogel, E. Kosta & M. Lasalle, Intersentia: 483-532, 2024 [ISBN-13: 978-1-839-70394-2]
 
