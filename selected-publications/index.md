@@ -17,7 +17,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 ["Connectivity as Aid"](https://doi.org/10.1017/9781009414630.021), with J. Warnes, in [_Handbook on Data Protection in Humanitarian Action_](https://www.cambridge.org/core/books/handbook-on-data-protection-in-humanitarian-action/025CE3DFD1FAD908DD1412C20E49F955) (3rd ed.), edited by M. Marelli, Cambridge University Press: 274–287, 2024 [ISBN-13: 978-1-009-41463-0]
 
-["Why Are Sector Transgressions So Hard to Govern? Reflections from Europe’s pandemic experience"](https://doi.org/10.1080/1369118X.2023.2264919), with L. Taylor, S. de Souza & J. Lopez Solano, _Information, Communication & Society_, 2023 [ISSN 1468-4462]
+["Why Are Sector Transgressions So Hard to Govern? Reflections from Europe’s pandemic experience"](https://doi.org/10.1080/1369118X.2023.2264919), with L. Taylor, S. de Souza & J. Lopez Solano, _Information, Communication & Society_: 1–5, 2023 [ISSN 1468-4462]
 
 ["Digital Identity and Inclusion: Tracing technological transitions"](https://doi.org/10.1353/gia.2023.a897699), with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_ 24(1): 36–45, 2023 [ISSN 1526-0054]
 
@@ -29,9 +29,9 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 "Entre surveillance et identification : repenser l’identité numérique dans l’humanitaire", with K. Weitzberg, M. Cheesman & E. Schoemaker, in [_L’État digital_](https://www.librairie-gallimard.com/livre/9782701322070-l-etat-digital-numerisation-de-l-administration-publique-et-administration-publique-du-numerique-gilles-j-guglielmi-luca-belli-collectif/), edited by L. Belli & G. J. Guglielmi, Berger-Levrault: 145–156, 2022 [ISBN-13: 978-2-701322-07-0]
 
-["Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance"](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533), with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliament's Panel for the Future of Science and Technology_, 2022 [ISBN-13: 978-9-284696-23-9] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ql-TieDcIL)>>
+["Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance"](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533), with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliament's Panel for the Future of Science and Technology_: 1–67, 2022 [ISBN-13: 978-9-284696-23-9] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ql-TieDcIL)>>
 
-["Digital Disruption or Crisis Capitalism? Technology, power, and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_, 2022 <<featured in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00507-2)>>
+["Digital Disruption or Crisis Capitalism? Technology, power, and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_:1–55, 2022 <<featured in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00507-2)>>
 
 ["Between Surveillance and Recognition: Rethinking digital identity in aid"](https://doi.org/10.1177/20539517211006744), with K. Weitzberg, M. Cheesman & E. Schoemaker, *Big Data & Society* (January–June): 1–7, 2021 [ISSN 2053-9517] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/yyHXtMKvZh) and [Biometric Update](https://www.biometricupdate.com/202104/balancing-the-power-over-and-power-to-when-it-comes-to-biometrics-and-humanitarian-aid)>>
 
@@ -41,9 +41,9 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 ["Exclusion and Inclusion in Identification: Regulation, displacement, and data justice"](https://doi.org/10.1080/02681102.2020.1811943), with L. Taylor, *Information Technology for Development* 27(1): 50–66, 2021 [ISSN 1554-0170] <<featured in [Biometric Update](https://www.biometricupdate.com/202009/biometrics-collection-from-refugees-and-vulnerable-people-questioned-by-analysts)>>
 
-["Introduction: What does the COVID-19 response mean for global data justice?"](https://ia801504.us.archive.org/25/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press: 8–17, 2020 [ISBN-13: 978-1-913824-00-6] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ig5CJ6qoXZ)>>
+["Introduction: What does the COVID-19 response mean for global data justice?"](https://ia801504.us.archive.org/25/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press: 8–17, 2020 [ISBN-13: 978-1-913824-00-6] 
 
-"[_Data Justice and COVID-19: Global Perspectives_](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020. 
+"[_Data Justice and COVID-19: Global Perspectives_](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020 <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ig5CJ6qoXZ)>>
 
 ["Desplazados y Desconectados: South America"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, *Digital Access, Inclusion and Participation*, UN Refugee Agency: 1–42, 2020
 
