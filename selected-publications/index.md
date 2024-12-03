@@ -8,7 +8,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 "_Transgressive Tech_", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
 
-"Governing AI Means Governing Data: (Re)setting the agenda for data justice", L. Taylor, S. de Souza, & J. López-Solano. _Dialogues on Digital Society_, forthcoming
+"Governing AI Means Governing Data: (Re)setting the agenda for data justice", L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_, forthcoming
 
 "Synthetic Data, Synthetic Media, and Surveillance", with B. Newell. _Surveillance & Society_ 22(4), forthcoming
 
@@ -19,7 +19,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 ["Why Are Sector Transgressions So Hard to Govern? Reflections from Europe’s pandemic experience"](https://doi.org/10.1080/1369118X.2023.2264919), with L. Taylor, S. de Souza & J. Lopez Solano, _Information, Communication & Society_: 1–5, 2023 [ISSN 1468-4462]
 
-["Digital Identity and Inclusion: Tracing technological transitions"](https://doi.org/10.1353/gia.2023.a897699), with E. Schoemaker and K. Weitzberg, _Georgetown Journal of International Affairs_ 24(1): 36–45, 2023 [ISSN 1526-0054]
+["Digital Identity and Inclusion: Tracing technological transitions"](https://doi.org/10.1353/gia.2023.a897699), with E. Schoemaker & K. Weitzberg, _Georgetown Journal of International Affairs_ 24(1): 36–45, 2023 [ISSN 1526-0054]
 
 ["Aidwashing Surveillance: Critiquing the corporate exploitation of humanitarian crises"](https://doi.org/10.24908/ss.v21i1.16266), _Surveillance & Society_ 21(1): 96–102, 2023 [ISSN 1477-7487]
 
@@ -37,7 +37,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 ["Aadhaar in a Box? Legitimizing digital identity in times of crisis"](https://doi.org/10.24908/ss.v19i1.14547), *Surveillance & Society* 19(1): 104–108, 2021 [ISSN 1477-7487] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/4vgIorQZaY)>>
 
-["Connecting with Confidence: Managing digital risks to refugee connectivity"](https://www.unhcr.org/innovation/wp-content/uploads/2021/03/CWC-Managing-Digital-Risks-To-Refugee-Connectivity-Report.pdf), with T. Bouffet and J. Warnes, UN Refugee Agency: 1–71, 2021
+["Connecting with Confidence: Managing digital risks to refugee connectivity"](https://www.unhcr.org/innovation/wp-content/uploads/2021/03/CWC-Managing-Digital-Risks-To-Refugee-Connectivity-Report.pdf), with T. Bouffet & J. Warnes, UN Refugee Agency: 1–71, 2021
 
 ["Exclusion and Inclusion in Identification: Regulation, displacement, and data justice"](https://doi.org/10.1080/02681102.2020.1811943), with L. Taylor, *Information Technology for Development* 27(1): 50–66, 2021 [ISSN 1554-0170] <<featured in [Biometric Update](https://www.biometricupdate.com/202009/biometrics-collection-from-refugees-and-vulnerable-people-questioned-by-analysts)>>
 
