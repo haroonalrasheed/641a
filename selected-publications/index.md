@@ -19,7 +19,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 ["Connectivity as Aid"](https://doi.org/10.1017/9781009414630.021), with J. Warnes, in [_Handbook on Data Protection in Humanitarian Action_](https://www.cambridge.org/core/books/handbook-on-data-protection-in-humanitarian-action/025CE3DFD1FAD908DD1412C20E49F955) (3rd ed.), edited by M. Marelli, Cambridge University Press: 274–287, 2024 [ISBN-13: 978-1-009-41463-0]
 
-["Why Are Sector Transgressions So Hard to Govern? Reflections from Europe’s pandemic experience"](https://doi.org/10.1080/1369118X.2023.2264919), with L. Taylor, S. de Souza & J. Lopez Solano, _Information, Communication & Society_: 1–5, 2023 [ISSN 1468-4462]
+["Why Are Sector Transgressions So Hard to Govern? Reflections from Europe’s pandemic experience"](https://doi.org/10.1080/1369118X.2023.2264919), with L. Taylor, S. de Souza & J. Lopez Solano, _Information, Communication & Society_ 27(15): 2721–2725, 2023 [ISSN 1468-4462]
 
 ["Digital Identity and Inclusion: Tracing technological transitions"](https://doi.org/10.1353/gia.2023.a897699), with E. Schoemaker & K. Weitzberg, _Georgetown Journal of International Affairs_ 24(1): 36–45, 2023 [ISSN 1526-0054]
 
