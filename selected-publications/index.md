@@ -8,7 +8,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 "_Transgressive Tech_", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
 
-"Governing Artificial Intelligence Means Governing Data: (Re)setting the agenda for data justice", L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_, forthcoming
+["Governing Artificial Intelligence Means Governing Data: (Re)setting the agenda for data justice"](https://doi.org/10.1177/29768640241306800), L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_: 1-18, 2025
 
 ["A Cybersecurity Strategy Fit for Purpose? Introducing the Special Issue on EU Cybersecurity: Collective resilience through regulation"](https://doi.org/10.1016/j.clsr.2024.106104), with G. van Dijck, I. Kamara, A. Tamò-Larrieux & P. Wolters. _Computer Law & Security Review_: 1-3, 2025
 
