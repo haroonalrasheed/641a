@@ -33,7 +33,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 ["Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance"](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533), with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliament's Panel for the Future of Science and Technology_: 1–67, 2022 [ISBN-13: 978-9-284696-23-9] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ql-TieDcIL)>>
 
-["Digital Disruption or Crisis Capitalism? Technology, power, and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_:1–55, 2022 <<featured in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00507-2)>>
+["Digital Disruption or Crisis Capitalism? Technology, power, and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_: 1–55, 2022 <<featured in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00507-2)>>
 
 ["Between Surveillance and Recognition: Rethinking digital identity in aid"](https://doi.org/10.1177/20539517211006744), with K. Weitzberg, M. Cheesman & E. Schoemaker, *Big Data & Society* (January–June): 1–7, 2021 [ISSN 2053-9517] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/yyHXtMKvZh) and [Biometric Update](https://www.biometricupdate.com/202104/balancing-the-power-over-and-power-to-when-it-comes-to-biometrics-and-humanitarian-aid)>>
 
