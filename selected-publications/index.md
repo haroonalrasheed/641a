@@ -11,9 +11,9 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 "Verified Human? Identity inversions in our new machine age", with K. Weitzberg, in _Reimagining AI: For environmental justice and creativity_, edited by J. Reia, MC Forelle & Y. Wang, Digitial
 Technology for Democracy Lab, University of Virginia: 59–60, 2025
 
-["Governing Artificial Intelligence Means Governing Data: (Re)setting the agenda for data justice"](https://doi.org/10.1177/29768640241306800), L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_: 1-18, 2025
+["Governing Artificial Intelligence Means Governing Data: (Re)setting the agenda for data justice"](https://doi.org/10.1177/29768640241306800), L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_: 1–18, 2025
 
-["A Cybersecurity Strategy Fit for Purpose? Introducing the Special Issue on EU Cybersecurity: Collective resilience through regulation"](https://doi.org/10.1016/j.clsr.2024.106104), with G. van Dijck, I. Kamara, A. Tamò-Larrieux & P. Wolters. _Computer Law & Security Review_: 1-3, 2025
+["A Cybersecurity Strategy Fit for Purpose? Introducing the Special Issue on EU Cybersecurity: Collective resilience through regulation"](https://doi.org/10.1016/j.clsr.2024.106104), with G. van Dijck, I. Kamara, A. Tamò-Larrieux & P. Wolters. _Computer Law & Security Review_: 1–3, 2025
 
 ["Synthetic Data, Synthetic Media, and Surveillance"](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/18334), with B. Newell. _Surveillance & Society_ 22(4): 448–452, 2024 [ISSN 1477-7487]
 
