@@ -8,7 +8,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 "_Transgressive Tech_", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
 
-"Verified Human? Identity inversions in our new machine age", with K. Weitzberg, in [_Reimagining AI for environmental justice and creativity_](https://doi.org/10.18130/03df-zn30), edited by J. Reia, MC Forelle & Y. Wang, Digitial Technology for Democracy Lab, University of Virginia: 67–69, 2025
+"Verified Human? Identity inversions in our new machine age", with K. Weitzberg, in [_Reimagining AI for environmental justice and creativity_](https://doi.org/10.18130/03df-zn30), edited by J. Reia, MC Forelle & Y. Wang, Digital Technology for Democracy Lab, University of Virginia: 67–69, 2025
 
 ["Governing Artificial Intelligence Means Governing Data: (Re)setting the agenda for data justice"](https://doi.org/10.1177/29768640241306800), L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_: 1–18, 2025
 
