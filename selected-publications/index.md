@@ -8,13 +8,15 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 "_Transgressive Tech_", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
 
+"_Data Protection in Humanitarian Action: Responding to Crises in a Data-Driven World_", with A. Beduschi & M. Marelli (eds.), Taylor & Francis, forthcoming [ISBN-13 978-1-041094-07-4]
+
 "Governing AI (Also) Means Governing Markets, Institutions, and People", with L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_, forthcoming [ISSN 2976-8640]
 
 ["Why Sovereignty Matters for Humanitarian Data"](https://doi.org/10.1177/20539517251361109), in _Big Data & Society_ 12(3): 1–13, 2025 [ISSN 2053-9517]
 
 ["Humanitarian Connectivity in Crisis"](https://www.globalpolicyjournal.com/blog/02/06/2025/humanitarian-connectivity-crisis), with Q. Tsui, in _Global Policy Opinion_, 2025
 
-["Verified Human? Identity inversions in our new machine age"](https://sixfouronea.net/Reimagining_AI_verified_human.pdf), with K. Weitzberg, in [_Reimagining AI for environmental justice and creativity_](https://doi.org/10.18130/03df-zn30), edited by J. Reia, MC Forelle & Y. Wang, Digital Technology for Democracy Lab, University of Virginia: 67–69, 2025
+["Verified Human? Identity inversions in our new machine age"](https://sixfouronea.net/Reimagining_AI_verified_human.pdf), with K. Weitzberg, in [_Reimagining AI for Environmental Justice and Creativity_](https://doi.org/10.18130/03df-zn30), edited by J. Reia, MC Forelle & Y. Wang, Digital Technology for Democracy Lab, University of Virginia: 67–69, 2025
 
 ["Governing Artificial Intelligence Means Governing Data: (Re)setting the agenda for data justice"](https://doi.org/10.1177/29768640241306800), L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_: 1–18, 2025 [ISSN 2976-8640]
 
