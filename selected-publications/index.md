@@ -6,9 +6,9 @@ title: Selected Publications
 ## Selected Publications
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
-<!-- "Digital Civic Stratification in Europe: Designing Difference through Identity Management", with K. Weitzberg, M. Cheesman, H. Stoll & I. Dullaert, _International Political Sociology_, under review [ISSN 1749-5687] -->
+<!-- "Digital Civic Stratification in Europe: Designing difference through identity management", with K. Weitzberg, M. Cheesman, H. Stoll & I. Dullaert, _International Political Sociology_, under review [ISSN 1749-5687] -->
 
-<!-- "Worldcoin in Kenya", with G. Mutung'u & M. Brewczyńska. _Science & Public Policy_, under review [ISSN 1471-5430] -->
+<!-- "Worldcoin in Kenya: Regulatory entrepreneurship in the era of digital sovereignty", with G. Mutung'u & M. Brewczyńska. _Science & Public Policy_, under review [ISSN 1471-5430] -->
 
 <!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
 
