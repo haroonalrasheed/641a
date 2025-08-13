@@ -6,9 +6,17 @@ title: Selected Publications
 ## Selected Publications
 _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapters_
 
+<!-- "Digital Civic Stratification in Europe: Designing Difference through Identity Management", with K. Weitzberg, M. Cheesman, H. Stoll & I. Dullaert, _International Political Sociology_, under review [ISSN 1749-5687] -->
+
+<!-- "Worldcoin in Kenya", with G. Mutung'u & M. Brewczyńska. _Science & Public Policy_, under review [ISSN 1471-5430] -->
+
+<!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
+
 "_Transgressive Tech_", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
 
-"_Data Protection in Humanitarian Action: Responding to Crises in a Data-Driven World_", with A. Beduschi & M. Marelli (eds.), Taylor & Francis, forthcoming [ISBN-13 978-1-041094-07-4]
+"Digital Transformation and the Humanitarian-Development Transition: The role of digital public infrastructure and data protection", with E. Schoemaker, in _Data Protection in Humanitarian Action: Responding to crises in a data-driven world_, edited by A. Beduschi, M. Marelli & A. Martin, Taylor & Francis, forthcoming [ISBN-13 978-1-041094-07-4]
+
+"_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_", with A. Beduschi & M. Marelli (eds.), Taylor & Francis, forthcoming [ISBN-13 978-1-041094-07-4]
 
 "Governing AI (Also) Means Governing Markets, Institutions, and People", with L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_, forthcoming [ISSN 2976-8640]
 
@@ -99,7 +107,7 @@ Book review of ["Innovation, Dual Use, and Security: Managing the risks of emerg
 
 ["Medical Privacy and Security in Developing Countries and Humanitarian Operations"](https://privacyinternational.org/report/726/medical-privacy-and-security-developing-countries-and-emergency-situations), with G. Hosein, *LSE Policy Engagement Network Paper* 7: 1–26, 2012
 
-["Rethinking Security at the Olympics"](https://doi.org/10.4324/9780203827475_chapter_1), with D. J. Bernhard, in [*Security Games: Surveillance and Control at Mega-Events*](https://www.routledge.com/Security-Games-Surveillance-and-Control-at-Mega-Events-1st-Edition/Bennett-Haggerty/p/book/9780415602624), edited by C.J. Bennett & K. D. Haggerty, Routledge: 20–35, 2011 [ISBN-13: 978-0-415-60262-4]
+["Rethinking Security at the Olympics"](https://doi.org/10.4324/9780203827475_chapter_1), with D. J. Bernhard, in [*Security Games: Surveillance and Control at Mega-Events*](https://www.routledge.com/Security-Games-Surveillance-and-Control-at-Mega-Events-1st-Edition/Bennett-Haggerty/p/book/9780415602624), edited by C. J. Bennett & K. D. Haggerty, Routledge: 20–35, 2011 [ISBN-13: 978-0-415-60262-4]
 
 ["Automating the Public Sector and Organizing Accountabilities"](https://doi.org/10.17705/1CAIS.02601), with M. L. Smith & M. E. Noorman, *Communications of the Association for Information Systems* 26(1): 1–16, 2010 [ISSN 1529-3181]
 
