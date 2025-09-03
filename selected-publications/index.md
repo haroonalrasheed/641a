@@ -18,7 +18,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 ["_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_"](https://www.routledge.com/Data-Protection-in-Humanitarian-Action-Responding-to-Crises-in-a-Data-Driven-World/Beduschi-Marelli-Martin/p/book/9781041094586), with A. Beduschi & M. Marelli (eds.), Taylor & Francis, forthcoming [ISBN-13 978-1-041094-07-4]
 
-"Governing AI (Also) Means Governing Markets, Institutions, and People", with L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_, forthcoming [ISSN 2976-8640]
+("Governing AI (Also) Means Governing Markets, Institutions, and People")[https://doi.org/10.1177/29768640251372628], with L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_, 2025 [ISSN 2976-8640]
 
 ["Why Sovereignty Matters for Humanitarian Data"](https://doi.org/10.1177/20539517251361109), in _Big Data & Society_ 12(3): 1–13, 2025 [ISSN 2053-9517]
 
