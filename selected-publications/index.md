@@ -20,7 +20,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 ["Governing AI (Also) Means Governing Markets, Institutions, and People"](https://doi.org/10.1177/29768640251372628), with L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_: 1–6, 2025 [ISSN 2976-8640]
 
-["Why Sovereignty Matters for Humanitarian Data"](https://doi.org/10.1177/20539517251361109), in _Big Data & Society_ 12(3): 1–13, 2025 [ISSN 2053-9517]
+["Why Sovereignty Matters for Humanitarian Data"](https://doi.org/10.1177/20539517251361109), _Big Data & Society_ 12(3): 1–13, 2025 [ISSN 2053-9517]
 
 ["Humanitarian Connectivity in Crisis"](https://www.globalpolicyjournal.com/blog/02/06/2025/humanitarian-connectivity-crisis), with Q. Tsui, in _Global Policy Opinion_, 2025
 
