@@ -12,11 +12,11 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 <!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
 
-"_Transgressive Tech_", with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
+_Transgressive Tech_, with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
 
 ["Digital Transformation and the Humanitarian-Development Transition: The role of digital public infrastructure and data protection"](https://doi.org/10.4324/9781003650164-9), with E. Schoemaker, in [_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://doi.org/10.4324/9781003650164), edited by A. Beduschi, M. Marelli & A. Martin, Taylor & Francis, 2025 [ISBN-13 978-1-041094-07-4]
 
-["_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_"](https://www.routledge.com/Data-Protection-in-Humanitarian-Action-Responding-to-Crises-in-a-Data-Driven-World/Beduschi-Marelli-Martin/p/book/9781041094586), with A. Beduschi & M. Marelli (eds.), Taylor & Francis, 2025 [ISBN-13 978-1-041094-07-4]
+[_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://www.routledge.com/Data-Protection-in-Humanitarian-Action-Responding-to-Crises-in-a-Data-Driven-World/Beduschi-Marelli-Martin/p/book/9781041094586), with A. Beduschi & M. Marelli (eds.), Taylor & Francis, 2025 [ISBN-13 978-1-041094-07-4]
 
 ["Governing AI (Also) Means Governing Markets, Institutions, and People"](https://doi.org/10.1177/29768640251372628), with L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_: 1–6, 2025 [ISSN 2976-8640]
 
@@ -63,7 +63,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 ["Introduction: What does the COVID-19 response mean for global data justice?"](https://ia801504.us.archive.org/25/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press: 8–17, 2020 [ISBN-13: 978-1-913824-00-6] 
 
-"[_Data Justice and COVID-19: Global Perspectives_](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020 <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ig5CJ6qoXZ)>>
+[_Data Justice and COVID-19: Global Perspectives_](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020 <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ig5CJ6qoXZ)>>
 
 ["Desplazados y Desconectados: South America"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, *Digital Access, Inclusion and Participation*, UN Refugee Agency: 1–42, 2020
 
