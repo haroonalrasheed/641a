@@ -14,7 +14,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 _Transgressive Tech_, with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Amsterdam University Press, forthcoming
 
-["Digital Transformation and the Humanitarian-Development Transition: The role of digital public infrastructure and data protection"](https://doi.org/10.4324/9781003650164-9), with E. Schoemaker, in [_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://doi.org/10.4324/9781003650164), edited by A. Beduschi, M. Marelli & A. Martin, Taylor & Francis, 2025 [ISBN-13 978-1-041094-07-4]
+["Digital Transformation and the Humanitarian-Development Transition: The role of digital public infrastructure and data protection"](https://doi.org/10.4324/9781003650164-9), with E. Schoemaker, in [_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://doi.org/10.4324/9781003650164), edited by A. Beduschi, M. Marelli & A. Martin, Taylor & Francis: 109–128, 2025 [ISBN-13 978-1-041094-07-4]
 
 [_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://www.routledge.com/Data-Protection-in-Humanitarian-Action-Responding-to-Crises-in-a-Data-Driven-World/Beduschi-Marelli-Martin/p/book/9781041094586), with A. Beduschi & M. Marelli (eds.), Taylor & Francis, 2025 [ISBN-13 978-1-041094-07-4]
 
@@ -74,7 +74,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 ["Displaced and Disconnected"](https://www.unhcr.org/innovation/displaced-and-disconnected/), *Connectivity for Refugees*, UN Refugee Agency: 1–43, 2019
 
 ["Cyber Governance and the Financial Services Sector: The role of public-private partnerships"](https://sixfouronea.net/CyberGovernanceFSS.pdf), with V. San Juan, in [*Rewired: Cybersecurity Governance*](https://www.wiley.com/en-nl/Rewired%3A+Cybersecurity+Governance+-p-9781118888216), edited by R. Ellis & V. Mohan, Wiley-Blackwell: 97–115, 2019 [ISBN-13: 978-1-118-88821-6] 
-   
+
 ["Surveillance in Africa: Politics, histories, techniques"](http://dx.doi.org/10.1017/asr.2016.35), with K. P. Donovan & P. M. Frowd, *African Studies Review* 59(2): 31–37, 2016 [ISSN 0002-0206]
 
 "Trust in the Digital Economy: Security and privacy", with M. Donohue, in [*OECD Digital Economy Outlook 2015*](http://dx.doi.org/10.1787/9789264232440-en), Organisation for Economic Co-operation & Development, OECD Publishing: 209–238, 2015 [ISBN-13: 978-9-264-23227-3]
