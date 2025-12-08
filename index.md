@@ -4,7 +4,7 @@ title: Aaron K. Martin, PhD
 ---
 I'm an **Assistant Professor** of Media Studies and Data Science (joint appointment) at the **University of Virginia**, with a background in tech policy, cybersecurity, privacy, and digital identity. At UVA, I teach courses on data ethics, tech regulation, political economy, and media policy.
 
-My **research interests** include data governance in development and humanitarian contexts, digital identity, surveillance, and biometrics.
+My **research interests** include data governance in development and humanitarian contexts, [digital sovereignty](https://www.digitalsovereigntyobservatory.org), identity, surveillance, and biometrics.
 
 My recent **publications** include a [research article on humanitarian data sovereignty](https://doi.org/10.1177/20539517251361109), a [think piece on humanitarian connectivity](https://www.globalpolicyjournal.com/blog/02/06/2025/humanitarian-connectivity-crisis), and a [co-authored paper on AI governance and data justice](https://doi.org/10.1177/29768640241306800).
 
