@@ -32,7 +32,7 @@ _Transgressive Tech_, with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & 
 
 ["Synthetic Data, Synthetic Media, and Surveillance"](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/18334), with B. Newell. _Surveillance & Society_ 22(4): 448–452, 2024 [ISSN 1477-7487]
 
-“How Technology and Law Interact to Combat Financial Crime”, with S. De Conca, E. Kosta & M. Roussos, in [_Law of Public-Private Cooperation Against Financial Crime:
+[“How Technology and Law Interact to Combat Financial Crime”](https://research.tilburguniversity.edu/files/112389037/Roussos_-_How_technology_and_law_interact_to_combat_financial_crime.pdf), with S. De Conca, E. Kosta & M. Roussos, in [_Law of Public-Private Cooperation Against Financial Crime:
 Developing information-sharing on money laundering and terrorism financing_](https://www.larcier-intersentia.com/en/law-public-private-cooperation-financial-crime-9781839704666.html), edited by B. Vogel, E. Kosta & M. Lasalle, Intersentia: 483–532, 2024 [ISBN-13: 978-1-839-70394-2]
 
 ["Connectivity as Aid"](https://doi.org/10.1017/9781009414630.021), with J. Warnes, in [_Handbook on Data Protection in Humanitarian Action_](https://www.cambridge.org/core/books/handbook-on-data-protection-in-humanitarian-action/025CE3DFD1FAD908DD1412C20E49F955) (3rd ed.), edited by M. Marelli, Cambridge University Press: 274–287, 2024 [ISBN-13: 978-1-009-41463-0] << translated to [Chinese](https://shop.icrc.org/download/ebook?sku=4305/006-ebook), [French](https://shop.icrc.org/download/ebook?sku=4305/001-ebook), [Japanese](https://shop.icrc.org/download/ebook?sku=4305/209-ebook) and [Korean](https://shop.icrc.org/download/ebook?sku=4305/210-ebook) >>
