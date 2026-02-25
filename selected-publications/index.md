@@ -12,7 +12,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 <!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
 
-"Regulatory Entrepreneurship’s Threat to Digital Sovereignty: The case of Worldcoin in Kenya", with G. Mutung'u & M. Brewczyńska. _Science & Public Policy_, forthcoming [ISSN 1471-5430]
+"Regulatory Entrepreneurship’s Threat to Digital Sovereignty: The case of Worldcoin in Kenya", with G. Mutung'u & M. Brewczyńska, _Science & Public Policy_, forthcoming [ISSN 1471-5430]
 
 [_Transgressive Tech_](https://www.routledge.com/Transgressive-Tech-The-Privatization-of-the-Public-Interest/Taylor-Martin-deSouza-LopezSolano-Sabbah-Ohai/p/book/9789048559732), with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Routledge, forthcoming
 
@@ -20,17 +20,17 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 [_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://www.routledge.com/Data-Protection-in-Humanitarian-Action-Responding-to-Crises-in-a-Data-Driven-World/Beduschi-Marelli-Martin/p/book/9781041094586), with A. Beduschi & M. Marelli (eds.), Taylor & Francis, 2025 [ISBN-13 978-1-041094-07-4]
 
-["Governing AI (Also) Means Governing Markets, Institutions, and People"](https://doi.org/10.1177/29768640251372628), with L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_: 1–6, 2025 [ISSN 2976-8640]
+["Governing AI (Also) Means Governing Markets, Institutions, and People"](https://doi.org/10.1177/29768640251372628), with L. Taylor, S. de Souza & J. López-Solano, _Dialogues on Digital Society_: 1–6, 2025 [ISSN 2976-8640]
 
 ["Why Sovereignty Matters for Humanitarian Data"](https://doi.org/10.1177/20539517251361109), _Big Data & Society_ 12(3): 1–13, 2025 [ISSN 2053-9517]
 
-["Humanitarian Connectivity in Crisis"](https://www.globalpolicyjournal.com/blog/02/06/2025/humanitarian-connectivity-crisis), with Q. Tsui. _Global Policy Opinion_, 2025
+["Humanitarian Connectivity in Crisis"](https://www.globalpolicyjournal.com/blog/02/06/2025/humanitarian-connectivity-crisis), with Q. Tsui, _Global Policy Opinion_, 2025
 
 ["Verified Human? Identity inversions in our new machine age"](https://sixfouronea.net/Reimagining_AI_verified_human.pdf), with K. Weitzberg, in [_Reimagining AI for Environmental Justice and Creativity_](https://doi.org/10.18130/03df-zn30), edited by J. Reia, MC Forelle & Y. Wang, Digital Technology for Democracy Lab, University of Virginia: 67–69, 2025
 
 ["Governing Artificial Intelligence Means Governing Data: (Re)setting the agenda for data justice"](https://doi.org/10.1177/29768640241306800), L. Taylor, S. de Souza & J. López-Solano. _Dialogues on Digital Society_: 1–18, 2025 [ISSN 2976-8640]
 
-["A Cybersecurity Strategy Fit for Purpose? Introducing the Special Issue on EU Cybersecurity: Collective resilience through regulation"](https://doi.org/10.1016/j.clsr.2024.106104), with G. van Dijck, I. Kamara, A. Tamò-Larrieux & P. Wolters. _Computer Law & Security Review_: 1–3, 2025 [ISSN 2212-4748]
+["A Cybersecurity Strategy Fit for Purpose? Introducing the Special Issue on EU Cybersecurity: Collective resilience through regulation"](https://doi.org/10.1016/j.clsr.2024.106104), with G. van Dijck, I. Kamara, A. Tamò-Larrieux & P. Wolters, _Computer Law & Security Review_: 1–3, 2025 [ISSN 2212-4748]
 
 ["Synthetic Data, Synthetic Media, and Surveillance"](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/18334), with B. Newell, _Surveillance & Society_ 22(4): 448–452, 2024 [ISSN 1477-7487]
 
