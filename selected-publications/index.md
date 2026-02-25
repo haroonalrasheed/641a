@@ -24,7 +24,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 ["Why Sovereignty Matters for Humanitarian Data"](https://doi.org/10.1177/20539517251361109), _Big Data & Society_ 12(3): 1–13, 2025 [ISSN 2053-9517]
 
-["Humanitarian Connectivity in Crisis"](https://www.globalpolicyjournal.com/blog/02/06/2025/humanitarian-connectivity-crisis), with Q. Tsui, in _Global Policy Opinion_, 2025
+["Humanitarian Connectivity in Crisis"](https://www.globalpolicyjournal.com/blog/02/06/2025/humanitarian-connectivity-crisis), with Q. Tsui. _Global Policy Opinion_, 2025
 
 ["Verified Human? Identity inversions in our new machine age"](https://sixfouronea.net/Reimagining_AI_verified_human.pdf), with K. Weitzberg, in [_Reimagining AI for Environmental Justice and Creativity_](https://doi.org/10.18130/03df-zn30), edited by J. Reia, MC Forelle & Y. Wang, Digital Technology for Democracy Lab, University of Virginia: 67–69, 2025
 
