@@ -8,11 +8,13 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 <!-- "New Frontiers of Civic Stratification: Comparing European digital identity management systems ", with K. Weitzberg, M. Cheesman, H. Stoll & I. Dullaert, _under review -->
 
+<!-- "Undoing Platform Humanitarianism", with Q. Tsui, in _Public Books_, 2026.
+
 <!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
 
 "Regulatory Entrepreneurship’s Threat to Digital Sovereignty: The case of Worldcoin in Kenya", with G. Mutung'u & M. Brewczyńska. _Science & Public Policy_, forthcoming [ISSN 1471-5430]
 
-_Transgressive Tech_, with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Routledge, forthcoming
+[_Transgressive Tech_](https://www.routledge.com/Transgressive-Tech-The-Privatization-of-the-Public-Interest/Taylor-Martin-deSouza-LopezSolano-Sabbah-Ohai/p/book/9789048559732), with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Routledge, forthcoming
 
 ["Digital Transformation and the Humanitarian-Development Transition: The role of digital public infrastructure and data protection"](https://doi.org/10.4324/9781003650164-9), with E. Schoemaker, in [_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://doi.org/10.4324/9781003650164), edited by A. Beduschi, M. Marelli & A. Martin, Taylor & Francis: 109–128, 2025 [ISBN-13 978-1-041094-07-4]
 
@@ -30,7 +32,7 @@ _Transgressive Tech_, with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & 
 
 ["A Cybersecurity Strategy Fit for Purpose? Introducing the Special Issue on EU Cybersecurity: Collective resilience through regulation"](https://doi.org/10.1016/j.clsr.2024.106104), with G. van Dijck, I. Kamara, A. Tamò-Larrieux & P. Wolters. _Computer Law & Security Review_: 1–3, 2025 [ISSN 2212-4748]
 
-["Synthetic Data, Synthetic Media, and Surveillance"](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/18334), with B. Newell. _Surveillance & Society_ 22(4): 448–452, 2024 [ISSN 1477-7487]
+["Synthetic Data, Synthetic Media, and Surveillance"](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/18334), with B. Newell, _Surveillance & Society_ 22(4): 448–452, 2024 [ISSN 1477-7487]
 
 [“How Technology and Law Interact to Combat Financial Crime”](https://research.tilburguniversity.edu/files/112389037/Roussos_-_How_technology_and_law_interact_to_combat_financial_crime.pdf), with S. De Conca, E. Kosta & M. Roussos, in [_Law of Public-Private Cooperation Against Financial Crime:
 Developing information-sharing on money laundering and terrorism financing_](https://www.larcier-intersentia.com/en/law-public-private-cooperation-financial-crime-9781839704666.html), edited by B. Vogel, E. Kosta & M. Lasalle, Intersentia: 483–532, 2024 [ISBN-13: 978-1-839-70394-2]
