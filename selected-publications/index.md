@@ -10,6 +10,8 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 <!-- "Undoing Platform Humanitarianism", with Q. Tsui, in _Public Books_, 2026.
 
+<!-- "All Data is Humanitarian Data", with Q. Tsui, in _Data Studies Bibliography_, 2026.
+
 <!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
 
 "Regulatory Entrepreneurship’s Threat to Digital Sovereignty: The case of Worldcoin in Kenya", with G. Mutung'u & M. Brewczyńska, _Science & Public Policy_, forthcoming [ISSN 1471-5430]
