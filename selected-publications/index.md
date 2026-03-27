@@ -69,7 +69,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 [_Data Justice and COVID-19: Global Perspectives_](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020 <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ig5CJ6qoXZ)>>
 
-["Desplazados y Desconectados: South America"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, *Digital Access, Inclusion and Participation*, UN Refugee Agency: 1–42, 2020
+["Desplazados y Desconectados: Americas"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, *Digital Access, Inclusion and Participation*, UN Refugee Agency: 1–38, 2020
 
 ["Using Regulatory Sandboxes to Support Responsible Innovation in the Humanitarian Sector"](https://doi.org/10.1111/1758-5899.12729), with G. Balestra, *Global Policy* 10(4): 733–736, 2019 [ISSN 1758-5899]
 
