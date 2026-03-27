@@ -75,7 +75,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 ["Mobile Money Platform Surveillance"](https://doi.org/10.24908/ss.v17i1/2.12924), *Surveillance & Society* 17(1/2): 213–222, 2019 [ISSN 1477-7487]
 
-["Displaced and Disconnected"](https://www.unhcr.org/innovation/displaced-and-disconnected/), *Connectivity for Refugees*, UN Refugee Agency: 1–43, 2019
+["Displaced and Disconnected"](https://www.unhcr.org/innovation/displaced-and-disconnected/), *Connectivity for Refugees*, UN Refugee Agency: 1–43, 2019 < translated to Arabic, Chinese, French, and Spanish >>
 
 ["Cyber Governance and the Financial Services Sector: The role of public-private partnerships"](https://sixfouronea.net/CyberGovernanceFSS.pdf), with V. San Juan, in [*Rewired: Cybersecurity Governance*](https://www.wiley.com/en-nl/Rewired%3A+Cybersecurity+Governance+-p-9781118888216), edited by R. Ellis & V. Mohan, Wiley-Blackwell: 97–115, 2019 [ISBN-13: 978-1-118-88821-6] 
 
