@@ -22,6 +22,8 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 [_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://www.routledge.com/Data-Protection-in-Humanitarian-Action-Responding-to-Crises-in-a-Data-Driven-World/Beduschi-Marelli-Martin/p/book/9781041094586), with A. Beduschi & M. Marelli (eds.), Taylor & Francis, 2025 [ISBN-13 978-1-041094-07-4]
 
+["The Britcard – progressive or concerning?"](https://blogs.lse.ac.uk/politicsandpolicy/the-britcard-progressive-or-concerning/), with K. Weitzberg & M. Cheesman, LSE British Politics, 2025 << featured in [Biometric Update](https://www.biometricupdate.com/202507/biometrics-providers-and-credentials-level-up-with-new-capabilities) >>
+
 ["Governing AI (Also) Means Governing Markets, Institutions, and People"](https://doi.org/10.1177/29768640251372628), with L. Taylor, S. de Souza & J. López-Solano, _Dialogues on Digital Society_: 1–6, 2025 [ISSN 2976-8640]
 
 ["Why Sovereignty Matters for Humanitarian Data"](https://doi.org/10.1177/20539517251361109), _Big Data & Society_ 12(3): 1–13, 2025 [ISSN 2053-9517]
@@ -53,21 +55,21 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 "Entre surveillance et identification : repenser l’identité numérique dans l’humanitaire", with K. Weitzberg, M. Cheesman & E. Schoemaker, in [_L’État digital_](https://www.librairie-gallimard.com/livre/9782701322070-l-etat-digital-numerisation-de-l-administration-publique-et-administration-publique-du-numerique-gilles-j-guglielmi-luca-belli-collectif/), edited by L. Belli & G. J. Guglielmi, Berger-Levrault: 145–156, 2022 [ISBN-13: 978-2-701322-07-0]
 
-["Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance"](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533), with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliament's Panel for the Future of Science and Technology_: 1–67, 2022 [ISBN-13: 978-9-284696-23-9] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ql-TieDcIL)>>
+["Governing Data and Artificial Intelligence for All: Models for sustainable and just data governance"](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533), with J. Lopez Solano, S. de Souza & L. Taylor, _Report for the European Parliament's Panel for the Future of Science and Technology_: 1–67, 2022 [ISBN-13: 978-9-284696-23-9] << featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ql-TieDcIL) >>
 
-["Digital Disruption or Crisis Capitalism? Technology, power, and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_: 1–55, 2022 <<featured in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00507-2)>>
+["Digital Disruption or Crisis Capitalism? Technology, power, and the pandemic"](https://doi.org/10.26116/gdj-euaifund), with J. Lopez Solano, F. Ohai, S. de Souza & L. Taylor, _Tech and COVID-19 Report for the European AI Fund_: 1–55, 2022 << featured in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-022-00507-2) >>
 
-["Between Surveillance and Recognition: Rethinking digital identity in aid"](https://doi.org/10.1177/20539517211006744), with K. Weitzberg, M. Cheesman & E. Schoemaker, *Big Data & Society* (January–June): 1–7, 2021 [ISSN 2053-9517] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/yyHXtMKvZh) and [Biometric Update](https://www.biometricupdate.com/202104/balancing-the-power-over-and-power-to-when-it-comes-to-biometrics-and-humanitarian-aid)>>
+["Between Surveillance and Recognition: Rethinking digital identity in aid"](https://doi.org/10.1177/20539517211006744), with K. Weitzberg, M. Cheesman & E. Schoemaker, *Big Data & Society* (January–June): 1–7, 2021 [ISSN 2053-9517] << featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/yyHXtMKvZh) and [Biometric Update](https://www.biometricupdate.com/202104/balancing-the-power-over-and-power-to-when-it-comes-to-biometrics-and-humanitarian-aid) >>
 
-["Aadhaar in a Box? Legitimizing digital identity in times of crisis"](https://doi.org/10.24908/ss.v19i1.14547), *Surveillance & Society* 19(1): 104–108, 2021 [ISSN 1477-7487] <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/4vgIorQZaY)>>
+["Aadhaar in a Box? Legitimizing digital identity in times of crisis"](https://doi.org/10.24908/ss.v19i1.14547), *Surveillance & Society* 19(1): 104–108, 2021 [ISSN 1477-7487] << featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/4vgIorQZaY) >>
 
 ["Connecting with Confidence: Managing digital risks to refugee connectivity"](https://www.unhcr.org/innovation/wp-content/uploads/2021/03/CWC-Managing-Digital-Risks-To-Refugee-Connectivity-Report.pdf), with T. Bouffet & J. Warnes, UN Refugee Agency: 1–71, 2021
 
-["Exclusion and Inclusion in Identification: Regulation, displacement, and data justice"](https://doi.org/10.1080/02681102.2020.1811943), with L. Taylor, *Information Technology for Development* 27(1): 50–66, 2021 [ISSN 1554-0170] <<featured in [Biometric Update](https://www.biometricupdate.com/202009/biometrics-collection-from-refugees-and-vulnerable-people-questioned-by-analysts)>>
+["Exclusion and Inclusion in Identification: Regulation, displacement, and data justice"](https://doi.org/10.1080/02681102.2020.1811943), with L. Taylor, *Information Technology for Development* 27(1): 50–66, 2021 [ISSN 1554-0170] << featured in [Biometric Update](https://www.biometricupdate.com/202009/biometrics-collection-from-refugees-and-vulnerable-people-questioned-by-analysts) >>
 
 ["Introduction: What does the COVID-19 response mean for global data justice?"](https://ia801504.us.archive.org/25/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press: 8–17, 2020 [ISBN-13: 978-1-913824-00-6] 
 
-[_Data Justice and COVID-19: Global Perspectives_](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020 <<featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ig5CJ6qoXZ)>>
+[_Data Justice and COVID-19: Global Perspectives_](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020 << featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ig5CJ6qoXZ) >>
 
 ["Desplazados y Desconectados: Americas"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, *Digital Access, Inclusion and Participation*, UN Refugee Agency: 1–38, 2020
 
@@ -75,7 +77,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 ["Mobile Money Platform Surveillance"](https://doi.org/10.24908/ss.v17i1/2.12924), *Surveillance & Society* 17(1/2): 213–222, 2019 [ISSN 1477-7487]
 
-["Displaced and Disconnected"](https://www.unhcr.org/innovation/displaced-and-disconnected/), *Connectivity for Refugees*, UN Refugee Agency: 1–43, 2019 < translated to Arabic, Chinese, French, and Spanish >>
+["Displaced and Disconnected"](https://www.unhcr.org/innovation/displaced-and-disconnected/), *Connectivity for Refugees*, UN Refugee Agency: 1–43, 2019 << translated to Arabic, Chinese, French, and Spanish >>
 
 ["Cyber Governance and the Financial Services Sector: The role of public-private partnerships"](https://sixfouronea.net/CyberGovernanceFSS.pdf), with V. San Juan, in [*Rewired: Cybersecurity Governance*](https://www.wiley.com/en-nl/Rewired%3A+Cybersecurity+Governance+-p-9781118888216), edited by R. Ellis & V. Mohan, Wiley-Blackwell: 97–115, 2019 [ISBN-13: 978-1-118-88821-6] 
 
@@ -89,7 +91,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 ["From Surveillance-by-Design to Privacy-by-Design: Evolving identity policy in the UK"](http://personal.lse.ac.uk/whitley/allpubs/hos2014.pdf), with E. A. Whitley & G. Hosein, in [*Histories of State Surveillance in Europe and Beyond*](https://www.routledge.com/Histories-of-State-Surveillance-in-Europe-and-Beyond/Boersma-van-Brakel-Fonio-Wagenaar/p/book/9780415829465), edited by K. Boersma, R. van Brakel, C. Fonio & P. Wagenaar, Routledge: 205–219, 2014 [ISBN-13: 978-0-415-82946-5]
 
-["The Rise of African SIM Registration: The emerging dynamics of regulatory change"](http://dx.doi.org/10.5210/fm.v19i2.4351), with K. P. Donovan, *First Monday* 19(2-3), 2014 [ISSN 1396-0466] <<featured in [The Economist](https://www.economist.com/international/2013/05/04/called-up)>>
+["The Rise of African SIM Registration: The emerging dynamics of regulatory change"](http://dx.doi.org/10.5210/fm.v19i2.4351), with K. P. Donovan, *First Monday* 19(2-3), 2014 [ISSN 1396-0466] << featured in [The Economist](https://www.economist.com/international/2013/05/04/called-up) >>
 
 ["Open Government and Citizen Identities: Promise, peril, and policy"](https://prd-idrc.azureedge.net/sites/default/files/openebooks/541-1/index.html#ch09), with C. M. Bonina, in [*Open Development: Networked Innovations in International Development*](https://idl-bnc-idrc.dspacedirect.org/handle/10625/52348), edited by M. L. Smith & K. M. A. Reilly, MIT Press: 223–247, 2014 [ISBN-13: 978-0-262-52541-1]
 
@@ -117,4 +119,4 @@ Book review of ["Innovation, Dual Use, and Security: Managing the risks of emerg
 
 Book review of ["Wiring Up The Big Brother Machine... And Fighting It"](https://doi.org/10.24908/ss.v8i1.3477), *Surveillance & Society* 6(4): 416–417, 2009 [ISSN 1477-7487]
   
-["Understanding Resistance to Digital Surveillance: Towards a multi-disciplinary, multi-actor framework"](https://doi.org/10.24908/ss.v6i3.3282), with R. E. van Brakel & D. J. Bernhard, *Surveillance & Society* 6(3): 213–232, 2009 [ISSN 1477-7487] <<Awarded Surveillance Studies Network best paper prize>>
+["Understanding Resistance to Digital Surveillance: Towards a multi-disciplinary, multi-actor framework"](https://doi.org/10.24908/ss.v6i3.3282), with R. E. van Brakel & D. J. Bernhard, *Surveillance & Society* 6(3): 213–232, 2009 [ISSN 1477-7487] << awarded Surveillance Studies Network best paper prize >>
