@@ -12,9 +12,9 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 <!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
 
-["Regulatory Entrepreneurship’s Threat to Digital Sovereignty: The case of Worldcoin in Kenya"](https://doi.org/10.1093/scipol/scag010), with G. Mutung'u & M. Brewczyńska, _Science & Public Policy_, forthcoming [ISSN 1471-5430]
-
 [_Transgressive Tech_](https://www.routledge.com/Transgressive-Tech-The-Privatization-of-the-Public-Interest/Taylor-Martin-deSouza-LopezSolano-Sabbah-Ohai/p/book/9789048559732), with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Routledge, forthcoming
+
+["Regulatory Entrepreneurship’s Threat to Digital Sovereignty: The case of Worldcoin in Kenya"](https://doi.org/10.1093/scipol/scag010), with G. Mutung'u & M. Brewczyńska, _Science & Public Policy_ 53(2): 289–299, 2026 [ISSN 1471-5430]
 
 ["All Data is Humanitarian Data"](https://www.datastudiesbibliography.org/blog/all-data-is-humanitarian-data), with Q. Tsui, in _Data Studies Bibliography_, 2026.
 
