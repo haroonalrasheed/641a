@@ -18,9 +18,9 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 ["All Data is Humanitarian Data"](https://www.datastudiesbibliography.org/blog/all-data-is-humanitarian-data), with Q. Tsui, in _Data Studies Bibliography_, 2026.
 
-["Digital Transformation and the Humanitarian-Development Transition: The role of digital public infrastructure and data protection"](https://doi.org/10.4324/9781003650164-9), with E. Schoemaker, in [_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://doi.org/10.4324/9781003650164), edited by A. Beduschi, M. Marelli & A. Martin, Taylor & Francis: 109–128, 2025 [ISBN-13 978-1-041094-07-4]
+["Digital Transformation and the Humanitarian-Development Transition: The role of digital public infrastructure and data protection"](https://doi.org/10.4324/9781003650164-9), with E. Schoemaker, in [_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://doi.org/10.4324/9781003650164), edited by A. Beduschi, M. Marelli & A. Martin, Routledge: 109–128, 2025 [ISBN-13 978-1-041094-07-4]
 
-[_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://www.routledge.com/Data-Protection-in-Humanitarian-Action-Responding-to-Crises-in-a-Data-Driven-World/Beduschi-Marelli-Martin/p/book/9781041094586), with A. Beduschi & M. Marelli (eds.), Taylor & Francis, 2025 [ISBN-13 978-1-041094-07-4]
+[_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://www.routledge.com/Data-Protection-in-Humanitarian-Action-Responding-to-Crises-in-a-Data-Driven-World/Beduschi-Marelli-Martin/p/book/9781041094586), with A. Beduschi & M. Marelli (eds.), Routledge, 2025 [ISBN-13 978-1-041094-07-4]
 
 ["The Britcard – progressive or concerning?"](https://blogs.lse.ac.uk/politicsandpolicy/the-britcard-progressive-or-concerning/), with K. Weitzberg & M. Cheesman, LSE British Politics, 2025 << featured in [Biometric Update](https://www.biometricupdate.com/202507/biometrics-providers-and-credentials-level-up-with-new-capabilities) >>
 
