@@ -12,7 +12,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 <!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
 
-[_Transgressive Tech_](https://doi.org/10.4324/9781003708551), with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Routledge, 2026
+[_Transgressive Tech_](https://doi.org/10.4324/9781003708551), with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Routledge, 2026 [ISBN-13 978-9-048559-73-2]
 
 ["Regulatory Entrepreneurship’s Threat to Digital Sovereignty: The case of Worldcoin in Kenya"](https://doi.org/10.1093/scipol/scag010), with G. Mutung'u & M. Brewczyńska, _Science & Public Policy_ 53(2): 289–299, 2026 [ISSN 1471-5430]
 
