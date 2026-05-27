@@ -8,7 +8,13 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 <!-- "New Frontiers of Civic Stratification: Comparing European digital identity management systems ", with K. Weitzberg, M. Cheesman, H. Stoll & I. Dullaert, _under review -->
 
+<!-- "Data Management", with... -->
+
 <!-- "Undoing Platform Humanitarianism", with Q. Tsui, in _Public Books_, 2026. -->
+
+<!-- "Is Celestial Resistance Possible?", with Q. Tsui, in _Digital Democracy from Below_, edited by J. Reia, J. van Geuns & N. Bassoff, Digital Technology for Democracy Lab, University of Virginia: xx-xx, 2026. -->
+
+<!-- "The Earthly Limits of Data Center Resistance", with Q. Tsui, in _LSE Inequalities_, 2026. -->
 
 <!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
 
