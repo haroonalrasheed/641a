@@ -10,13 +10,13 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 <!-- "Data Management", with... -->
 
-<!-- ["Undoing Platform Humanitarianism"](xxx), with Q. Tsui, in _Public Books_, 2026 -->
-
 <!-- "Is Celestial Resistance Possible?", with Q. Tsui, in _Digital Democracy from Below_, edited by J. Reia, J. van Geuns & N. Bassoff, Digital Technology for Democracy Lab, University of Virginia: xx-xx, 2026 -->
 
 <!-- "What the AI Space Race Means for Inequality on Earth," with Q. Tsui, in _LSE Inequalities_, 2026 -->
 
 <!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
+
+["Undoing Platform Humanitarianism"](https://www.publicbooks.org/undoing-platform-humanitarianism/), with Q. Tsui, in _Public Books_, 2026
 
 ["The Earthly Limits of Data Center Resistance"](https://policyreview.info/articles/news/data-centre-resistance/2102), with Q. Tsui, in _Internet Policy Review_, 2026
 
