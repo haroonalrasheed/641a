@@ -2,7 +2,7 @@
 layout: default
 title: Aaron K. Martin, PhD
 ---
-I'm an **Assistant Professor** of Media Studies and Data Science (joint appointment) at the **University of Virginia**, with a background in tech policy, cybersecurity, privacy, and digital identity. At UVA, I teach courses on data ethics, tech regulation, political economy, and media policy.
+I'm an **Assistant Professor** of Data Science at the **University of Virginia**, with a background in tech policy, cybersecurity, privacy, and digital identity. At UVA, I teach courses on data ethics, tech regulation, and political economy.
 
 My **research interests** include data governance in development and humanitarian contexts, [digital sovereignty](https://www.digitalsovereigntyobservatory.org), digital identity, surveillance, and biometrics.
 
