@@ -47,7 +47,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 ["Synthetic Data, Synthetic Media, and Surveillance"](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/18334), with B. Newell, _Surveillance & Society_ 22(4): 448–452, 2024 [ISSN 1477-7487]
 
 [“How Technology and Law Interact to Combat Financial Crime”](https://research.tilburguniversity.edu/files/112389037/Roussos_-_How_technology_and_law_interact_to_combat_financial_crime.pdf), with S. De Conca, E. Kosta & M. Roussos, in [_Law of Public-Private Cooperation Against Financial Crime:
-Developing information-sharing on money laundering and terrorism financing_](https://www.larcier-intersentia.com/en/law-public-private-cooperation-financial-crime-9781839704666.html), edited by B. Vogel, E. Kosta & M. Lasalle, Intersentia: 483–532, 2024 [ISBN-13: 978-1-839-70394-2]
+Developing information-sharing on money laundering and terrorism financing_](https://www.larcier-intersentia.com/en/law-public-private-cooperation-financial-crime-9781839704666.html), edited by B. Vogel, E. Kosta & M. Lasalle, Intersentia: 483–532, 2024 [ISBN-13: 978-1-839-70394-2] << reviwed by the [New Journal of European Criminal Law](https://doi.org/10.1177/20322844261462542)
 
 ["Connectivity as Aid"](https://doi.org/10.1017/9781009414630.021), with J. Warnes, in [_Handbook on Data Protection in Humanitarian Action_](https://www.cambridge.org/core/books/handbook-on-data-protection-in-humanitarian-action/025CE3DFD1FAD908DD1412C20E49F955) (3rd ed.), edited by M. Marelli, Cambridge University Press: 274–287, 2024 [ISBN-13: 978-1-009-41463-0] << translated to [Arabic](https://shop.icrc.org/download/ebook?sku=4305/004-ebook), [Chinese](https://shop.icrc.org/download/ebook?sku=4305/006-ebook), [French](https://shop.icrc.org/download/ebook?sku=4305/001-ebook), [Japanese](https://shop.icrc.org/download/ebook?sku=4305/209-ebook) and [Korean](https://shop.icrc.org/download/ebook?sku=4305/210-ebook) >>
 
@@ -77,7 +77,7 @@ Developing information-sharing on money laundering and terrorism financing_](htt
 
 ["Introduction: What does the COVID-19 response mean for global data justice?"](https://ia801504.us.archive.org/25/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson, in *Data Justice and COVID-19: Global Perspectives*, edited by L. Taylor, G. Sharma, A. Martin & S. Jameson, Meatspace Press: 8–17, 2020 [ISBN-13: 978-1-913824-00-6] 
 
-[_Data Justice and COVID-19: Global Perspectives_](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020 << featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ig5CJ6qoXZ) >>
+[_Data Justice and COVID-19: Global Perspectives_](https://ia801905.us.archive.org/23/items/data-justice-and-covid-19/Data_Justice_and_COVID-19.pdf), with L. Taylor, G. Sharma & S. Jameson (eds.), Meatspace Press, 2020 << featured in [The Syllabus](https://cabinet.the-syllabus.com/syllabus/Ig5CJ6qoXZ) and reviewed by [Media@LSE](https://blogs.lse.ac.uk/medialse/2020/10/08/book-review-of-data-justice-and-covid-19-global-perspectives/) and [Surveillance & Society](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/14472) >>
 
 ["Desplazados y Desconectados: Americas"](https://www.unhcr.org/innovation/displaced-and-disconnected/), with E. Perez Iglesias, *Digital Access, Inclusion and Participation*, UN Refugee Agency: 1–38, 2020
 
