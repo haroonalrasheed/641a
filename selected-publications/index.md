@@ -18,7 +18,7 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 ["Undoing Platform Humanitarianism"](https://www.publicbooks.org/undoing-platform-humanitarianism/), with Q. Tsui, in _Public Books_, 2026
 
-["The Earthly Limits of Data Center Resistance"](https://policyreview.info/articles/news/data-centre-resistance/2102), with Q. Tsui, in _Internet Policy Review_, 2026
+["The Earthly Limits of Data Center Resistance"](https://policyreview.info/articles/news/data-centre-resistance/2102), with Q. Tsui, in _Internet Policy Review_, 2026 [ISSN 2197-6775]
 
 [_Transgressive Tech_](https://doi.org/10.4324/9781003708551), with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Routledge, 2026 [ISBN-13 978-9-048559-73-2]
 
