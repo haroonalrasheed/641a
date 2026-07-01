@@ -16,15 +16,15 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 <!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
 
-["Undoing Platform Humanitarianism"](https://www.publicbooks.org/undoing-platform-humanitarianism/), with Q. Tsui, in _Public Books_, 2026
+["Undoing Platform Humanitarianism"](https://www.publicbooks.org/undoing-platform-humanitarianism/), with Q. Tsui, _Public Books_, 2026
 
-["The Earthly Limits of Data Center Resistance"](https://policyreview.info/articles/news/data-centre-resistance/2102), with Q. Tsui, in _Internet Policy Review_, 2026 [ISSN 2197-6775]
+["The Earthly Limits of Data Center Resistance"](https://policyreview.info/articles/news/data-centre-resistance/2102), with Q. Tsui, _Internet Policy Review_, 2026 [ISSN 2197-6775]
 
 [_Transgressive Tech_](https://doi.org/10.4324/9781003708551), with L. Taylor, S. de Souza, J. Lopez-Solano, O. Sabbah & F. Ohai (eds.), Routledge, 2026 [ISBN-13 978-9-048559-73-2]
 
 ["Regulatory Entrepreneurship’s Threat to Digital Sovereignty: The case of Worldcoin in Kenya"](https://doi.org/10.1093/scipol/scag010), with G. Mutung'u & M. Brewczyńska, _Science & Public Policy_ 53(2): 289–299, 2026 [ISSN 1471-5430]
 
-["All Data is Humanitarian Data"](https://www.datastudiesbibliography.org/blog/all-data-is-humanitarian-data), with Q. Tsui, in _Data Studies Bibliography_, 2026.
+["All Data is Humanitarian Data"](https://www.datastudiesbibliography.org/blog/all-data-is-humanitarian-data), with Q. Tsui, _Data Studies Bibliography_, 2026.
 
 ["Digital Transformation and the Humanitarian-Development Transition: The role of digital public infrastructure and data protection"](https://doi.org/10.4324/9781003650164-9), with E. Schoemaker, in [_Data Protection in Humanitarian Action: Responding to crises in a data-driven world_](https://doi.org/10.4324/9781003650164), edited by A. Beduschi, M. Marelli & A. Martin, Taylor & Francis: 109–128, 2025 [ISBN-13 978-1-041094-07-4]
 
