@@ -12,9 +12,9 @@ _[Contact me](mailto:a.k.martin@alumni.lse.ac.uk) for copies of articles/chapter
 
 <!-- "The authoritarian-humanitarian tech stack: a cautionary tale", with J. Lopez-Solano & Q. Tsui -->
 
-<!-- "Is Celestial Resistance Possible?", with Q. Tsui, in _Digital Democracy from Below_, edited by J. Reia, J. van Geuns & N. Bassoff, Digital Technology for Democracy Lab, University of Virginia: xx-xx, 2026 -->
-
 <!-- "Data Ethics", with Q. Tsui, in _Elgar Concise Encyclopedia on Privacy and Data Protection Law_, edited by G. Gonzales Fuster & F. Bieker, Edward Elgar, forthcoming -->
+
+["Is Celestial Resistance Possible?"](https://sixfouronea.net/Is_celesetial_resistance_possible.pdf, with Q. Tsui, in [_Digital Democracy from Below_](https://doi.org/10.18130/uva-open/79), edited by J. Reia, J. van Geuns & N. Bassoff, Digital Technology for Democracy Lab, University of Virginia: 32-33, 2026
 
 ["What the AI Space Race Means for Inequality on Earth](https://blogs.lse.ac.uk/inequalities/2026/07/14/what-the-ai-space-race-means-for-inequality-on-earth/)," with Q. Tsui, _LSE Inequalities_, 2026
 
